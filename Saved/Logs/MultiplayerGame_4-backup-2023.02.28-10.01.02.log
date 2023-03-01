@@ -1,0 +1,1329 @@
+﻿Log file open, 02/28/23 17:49:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MultiplayerGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169281
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VoxelPro
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogVoxel: VOXEL_DEBUG=0
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000048s (2.564502 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000046s (96.638660%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000003s (34.877257 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000003s (97.142833%). Num Chunks: 1.
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000013s (9.765619 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000012s (98.399989%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000000s (244.145872 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000000s (80.002328%). Num Chunks: 1.
+LogConfig: Applying CVar settings from Section [/Script/Voxel.VoxelSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900KF, GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/MultiplayerGame/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/PIEGameUserSettings3.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=1920 -WinY=364 SAVEWINPOS=1 -ResX=640 -ResY=360
+LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:459][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:462][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.28-09.49.34:462][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.28-09.49.34:463][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.28-09.49.34:463][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.02.28-09.49.34:463][  0]LogHAL: Display: Platform has ~ 64 GB [68425355264 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.28-09.49.34:463][  0]LogInit: Going up to parent DeviceProfile []
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.02.28-09.49.34:463][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.02.28-09.49.34:464][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.02.28-09.49.34:464][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Editor.ini]
+[2023.02.28-09.49.34:464][  0]LogInit: Computer: FTY-LEGION-PC
+[2023.02.28-09.49.34:464][  0]LogInit: User: FTYLEGIONPC
+[2023.02.28-09.49.34:464][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.02.28-09.49.34:464][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.02.28-09.49.34:464][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.02.28-09.49.34:464][  0]LogMemory: Platform Memory Stats for Windows
+[2023.02.28-09.49.34:464][  0]LogMemory: Process Physical Memory: 160.12 MB used, 160.12 MB peak
+[2023.02.28-09.49.34:464][  0]LogMemory: Process Virtual Memory: 140.32 MB used, 140.32 MB peak
+[2023.02.28-09.49.34:464][  0]LogMemory: Physical Memory: 25330.34 MB used,  39925.17 MB free, 65255.50 MB total
+[2023.02.28-09.49.34:464][  0]LogMemory: Virtual Memory: 134200352.00 MB used,  17373.99 MB free, 134217728.00 MB total
+[2023.02.28-09.49.34:465][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.02.28-09.49.34:470][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.02.28-09.49.34:470][  0]LogInit: Using OS detected language (zh-CN).
+[2023.02.28-09.49.34:470][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.02.28-09.49.34:471][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/zh/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.02.28-09.49.34:549][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.02.28-09.49.34:639][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.02.28-09.49.34:661][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.02.28-09.49.34:661][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.02.28-09.49.34:678][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.02.28-09.49.34:680][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.28-09.49.34:680][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.02.28-09.49.34:680][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.02.28-09.49.34:680][  0]LogD3D11RHI: D3D11 adapters:
+[2023.02.28-09.49.34:771][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Ti' (Feature Level 11_0)
+[2023.02.28-09.49.34:771][  0]LogD3D11RHI:       12108/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:       0/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     SubSysId    : 389c17aa
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     DedicatedVideoMemory : 12696158208 bytes
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     SharedSystemMemory : 34212677632 bytes
+[2023.02.28-09.49.34:772][  0]LogD3D11RHI:     AdapterLuid : 0 65280
+[2023.02.28-09.49.34:779][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.02.28-09.49.34:779][  0]LogD3D11RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2023.02.28-09.49.34:779][  0]LogWindows: EnumDisplayDevices:
+[2023.02.28-09.49.34:779][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1)
+[2023.02.28-09.49.34:779][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1)
+[2023.02.28-09.49.34:779][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2023.02.28-09.49.34:780][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2023.02.28-09.49.34:780][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:   Driver Version: 472.39 (internal:30.0.14.7239, unified:472.39)
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:      Driver Date: 10-13-2021
+[2023.02.28-09.49.34:780][  0]LogRHI: Texture pool is 8475 MB (70% of 12108 MB)
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     SubSysId    : 389c17aa
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     DedicatedVideoMemory : 12696158208 bytes
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     SharedSystemMemory : 34212677632 bytes
+[2023.02.28-09.49.34:780][  0]LogD3D11RHI:     AdapterLuid : 0 65280
+[2023.02.28-09.49.34:859][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.02.28-09.49.34:859][  0]LogD3D11RHI: Async texture creation enabled
+[2023.02.28-09.49.34:859][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.02.28-09.49.34:873][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2023.02.28-09.49.34:903][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.02.28-09.49.35:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.28-09.49.35:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.28-09.49.35:163][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.28-09.49.35:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.28-09.49.35:164][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.02.28-09.49.35:166][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.28-09.49.35:171][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.28-09.49.35:178][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.02.28-09.49.35:178][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (G:/UnrealStudent/MultiplayerGame03/Intermediate/Shaders/WorkingDirectory/12468/).
+[2023.02.28-09.49.35:178][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FTY-LEGION-PC/AppData/Local/Temp/UnrealShaderWorkingDir/2C7E52B3422C63B252504988FF73B7D3/'.
+[2023.02.28-09.49.35:178][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.02.28-09.49.35:178][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.02.28-09.49.35:178][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.28-09.49.35:654][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: Loaded boot cache 0.09s 205MB C:/Users/FTY-LEGION-PC/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/FTY-LEGION-PC/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/UnrealStudent/MultiplayerGame03/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/UnrealStudent/MultiplayerGame03/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.28-09.49.35:741][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.02.28-09.49.35:753][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.28-09.49.35:754][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.02.28-09.49.35:754][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.02.28-09.49.35:758][  0]LogDerivedDataCache: Speed tests for G:/UnrealStudent/MultiplayerGame03/DerivedDataCache took 0.00 seconds
+[2023.02.28-09.49.35:759][  0]LogDerivedDataCache: Display: Performance to G:/UnrealStudent/MultiplayerGame03/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=2918.96MBs, RandomWriteSpeed=259.37MBs. Assigned SpeedClass 'Local'
+[2023.02.28-09.49.35:759][  0]LogDerivedDataCache: Using Local data cache path G:/UnrealStudent/MultiplayerGame03/DerivedDataCache: Writable
+[2023.02.28-09.49.35:759][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.02.28-09.49.35:759][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.02.28-09.49.35:780][  0]LogSlate: Using FreeType 2.10.0
+[2023.02.28-09.49.35:780][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.02.28-09.49.35:831][  0]LogInit: Using OS detected language (zh-CN).
+[2023.02.28-09.49.35:831][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.02.28-09.49.35:831][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2023.02.28-09.49.35:831][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2023.02.28-09.49.35:832][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.02.28-09.49.35:832][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2023.02.28-09.49.35:833][  0]LogAssetRegistry: FAssetRegistry took 0.0010 seconds to start up
+[2023.02.28-09.49.35:936][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2023.02.28-09.49.35:936][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.000530 seconds
+[2023.02.28-09.49.35:968][  0]LogInit: Selected Device Profile: [Windows]
+[2023.02.28-09.49.35:968][  0]LogInit: Active device profile: [00000203BB253F00][00000203A919CD40 49] Windows
+[2023.02.28-09.49.35:968][  0]LogInit: Profiles: [00000203BB253F00][00000203A919CD40 49] Windows, [00000203BB26BF00][00000203A9DE2EC0 49] WindowsNoEditor, [00000203BB250200][00000203A9DE7040 49] WindowsServer, [00000203BB269F00][00000203A9DEB1C0 49] WindowsClient, [00000203BB252000][00000203A9DEF340 49] IOS, [00000203BB26B700][00000203A9DF34C0 49] iPadAir, [00000203BB250800][00000203A9DF7640 49] iPadAir2, [00000203BB204900][00000203A98BB8C0 49] IPadPro, [00000203BB204A00][00000203A9DFB900 49] iPadAir3, [00000203BB250600][00000203A9DFFA40 49] iPadAir4, [00000203BB204700][00000203A9E03B80 49] iPadMini2, [00000203BB250B00][00000203A9E06140 49] iPadMini3, [00000203BB205600][00000203A9E0E2C0 49] iPadMini4, [00000203BB252B00][00000203A9E12440 49] iPadMini5, [00000203BB26A000][00000203A9E1A700 49] iPhone6, [00000203BB26A100][00000203A9E16740 49] iPodTouch6, [00000203BB1F3F00][00000203A9E22A00 49] iPhone7, [00000203BB1F3E00][00000203A9E1EA40 49] iPodTouch7, [00000203BB268C00][00000203A9E26BC0 49] iPhone5S, [00000203BB1F0700][00000203A9E2AD40 49] iPhone6Plus, [00000203BB268D00][00000203A9C76EC0 49] iPhone6S, [00000203BB1F3200][00000203A9C7B040 49] iPhone6SPlus, [00000203BB26B100][00000203A9C7F1C0 49] iPhone7Plus, [00000203BB1F0F00][00000203A9C83340 49] iPhoneSE, [00000203BB269D00][00000203A9C874C0 49] iPhone8, [00000203BB1F2B00][00000203A9C8B640 49] iPhone8Plus, [00000203BB26A700][00000203A9C8F7C0 49] iPhoneX, [00000203BB1F1600][00000203A9C93940 49] iPhoneXS, [00000203BB26B400][00000203A9C97AC0 49] iPhoneXSMax, [00000203BB1F2400][00000203A9E0BC00 49] iPhoneXR, [00000203BB26A400][00000203A9C9A1C0 49] iPhone11, [00000203BB1F1D00][00000203A9C9E300 49] iPhone11Pro, [00000203BB269500][00000203A9CA6480 49] iPhone11ProMax, [00000203BB1F3600][00000203A9CAA600 49] iPhoneSE2, [00000203BB269A00][00000203A9CAE780 49] iPhone12Mini, [00000203BB1F0D00][00000203A9CB2900 49] iPhone12, [00000203BB268A00][00000203A9CB6A80 49] iPhone12Pro, [00000203BB1F2D00][00000203A9CBAC00 49] iPhone12ProMax, [00000203BB269E00][00000203A9CBED80 49] iPadPro105, [00000203BB1F2900][00000203A9CC2F00 49] iPadPro129, [00000203BB26A800][00000203A9CC7080 49] iPadPro97, [00000203BB1F1700][00000203A9CCB200 49] iPadPro2_129, [00000203BB269800][00000203BB4BF380 49] iPad5, [00000203BB1F3500][00000203BB4C3500 49] iPad6, [00000203BB269600][00000203BB4C7680 49] iPad7, [00000203BB1F2A00][00000203BB4CB800 49] iPad8, [00000203BB268F00][00000203BB4CF980 49] iPadPro11, [00000203BB1F3C00][00000203BB4D3B00 49] iPadPro2_11, [00000203BB26B000][00000203BB4D6100 49] iPadPro3_129, [00000203BB1F3B00][00000203A9CA2240 49] iPadPro4_129, [00000203BB26AE00][00000203BB4DA380 49] AppleTV, [00000203BB1F3300][00000203BB4DE4C0 49] AppleTV4K, [00000203BB26AD00][00000203BB4E6640 49] TVOS, [00000203BB1F3D00][00000203BB4EA7C0 49] Mac, [00000203BB268B00][00000203BB4EE940 49] MacClient, [00000203BB1F2E00][00000203BB4F2AC0 49] MacNoEditor, [00000203BB268900][00000203BB4F6C40 49] MacServer, [00000203BB1F1500][00000203BB4FADC0 49] Linux, [00000203BB26B300][00000203BB4FEF40 49] LinuxAArch64, [00000203BB1F3000][00000203BB5030C0 49] LinuxNoEditor, [00000203BB269C00][00000203BB507240 49] LinuxAArch64NoEditor, [00000203BB1F1C00][00000203BB50B3C0 49] LinuxClient, [00000203BB26AB00][00000203BB50F540 49] LinuxAArch64Client, [00000203BB1F0800][00000203BB5136C0 49] LinuxServer, [00000203BB268600][00000203BB517840 49] LinuxAArch64Server, [00000203BB1F2800][00000203BB51B9C0 49] Android, [00000203BB268400][00000203BB51FB40 49] Android_Low, [00000203BB1F2500][00000203BB522140 49] Android_Mid, [00000203BB269000][00000203BB5262C0 49] Android_High, [00000203BB1F1300][00000203BB4E2400 49] Android_Default, [00000203BB26B500][00000203BB52A540 49] Android_Adreno4xx, [00000203BB204B00][00000203BB52E680 49] Android_Adreno5xx_Low, [00000203BB2CD300][00000203BB5327C0 49] Android_Adreno5xx, [00000203BB207300][00000203BB53A940 49] Android_Adreno6xx, [00000203BB2CDD00][00000203BB53EAC0 49] Android_Adreno6xx_Vulkan, [00000203BB207400][00000203BB542C40 49] Android_Mali_T6xx, [00000203BB2CD100][00000203BB546DC0 49] Android_Mali_T7xx, [00000203BB206400][00000203BB54AF40 49] Android_Mali_T8xx, [00000203BB2CE300][00000203BB54F0C0 49] Android_Mali_G71, [00000203BB205C00][00000203BB553240 49] Android_Mali_G72, [00000203BB2CC600][00000203BB5573C0 49] Android_Mali_G72_Vulkan, [00000203BB205300][00000203BB55B540 49] Android_Mali_G76, [00000203BB2CCC00][00000203BB55F6C0 49] Android_Mali_G76_Vulkan, [00000203BB204200][00000203BB563840 49] Android_Mali_G77, [00000203BB2CC900][00000203BB5679C0 49] Android_Mali_G77_Vulkan, [00000203BB205100][00000203BB56BB40 49] Android_Mali_G78, [00000203BB2CE800][00000203BB56E140 49] Android_Mali_G78_Vulkan, [00000203BB206600][00000203BB5722C0 49] Android_Mali_G710, [00000203BB2CC300][00000203BB576440 49] Android_Mali_G710_Vulkan, [00000203BB206500][00000203BB536580 49] Android_Vulkan_SM5, [00000203BB2CCE00][00000203BB57A6C0 49] Android_PowerVR_G6xxx, [00000203BB205700][00000203BB57E800 49] Android_PowerVR_GT7xxx, [00000203BB2CD500][00000203BB582940 49] Android_PowerVR_GE8xxx, [00000203BB206D00][00000203A9D8CAC0 49] Android_PowerVR_GM9xxx, [00000203BB2CDB00][00000203A9D90C40 49] Android_PowerVR_GM9xxx_Vulkan, [00000203BB204E00][00000203A9D94DC0 49] Android_TegraK1, [00000203BB2CC400][00000203A9D98F40 49] Android_Unknown_Vulkan, [00000203BB205800][00000203A9D9D0C0 49] Lumin, [00000203BB2CD600][00000203A9DA1240 49] Lumin_Desktop, [00000203BB268500][00000203A9DA53C0 49] HoloLens, 
+[2023.02.28-09.49.35:988][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.02.28-09.49.35:988][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.02.28-09.49.35:988][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.02.28-09.49.35:988][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.02.28-09.49.35:988][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.02.28-09.49.36:054][  0]LogNetVersion: MultiplayerGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2357651925)
+[2023.02.28-09.49.36:189][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.28-09.49.36:253][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.02.28-09.49.36:311][  0]LogMoviePlayer: Initializing movie player
+[2023.02.28-09.49.36:388][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6C16570A4C8713A8CD50E98DA2619BDF | Instance: CE71AB9D4601EAD0B73851BCA65E806E (FTY-LEGION-PC-12468).
+[2023.02.28-09.49.36:399][  0]LogCollectionManager: Loaded 0 collections in 0.000357 seconds
+[2023.02.28-09.49.36:400][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Saved/Collections/' took 0.00s
+[2023.02.28-09.49.36:400][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Content/Developers/FTYLEGIONPC/Collections/' took 0.00s
+[2023.02.28-09.49.36:400][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Content/Collections/' took 0.00s
+[2023.02.28-09.49.36:400][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2023.02.28-09.49.36:449][  0]LogPython: Using Python 3.7.7
+[2023.02.28-09.49.36:724][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.02.28-09.49.36:726][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.02.28-09.49.36:750][  0]SourceControl: Source control is disabled
+[2023.02.28-09.49.36:750][  0]SourceControl: Source control is disabled
+[2023.02.28-09.49.36:752][  0]SourceControl: Source control is disabled
+[2023.02.28-09.49.36:755][  0]LogUProjectInfo: Found projects:
+[2023.02.28-09.49.36:786][  0]LogOpenImageDenoise: OIDN starting up
+[2023.02.28-09.49.36:818][  0]LogVoxel: Loading embree3.dll from D:/Epic Games/UE_4.27/Engine/Plugins/Marketplace/VoxelPluginPro/Source/ThirdParty/Embree3/Win64/lib
+[2023.02.28-09.49.36:829][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.02.28-09.49.36:836][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.28-09.49.36:836][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.28-09.49.36:878][  0]LogOcInput: OculusInput pre-init called
+[2023.02.28-09.49.36:884][  0]LogUObjectArray: 24388 objects as part of root set at end of initial load.
+[2023.02.28-09.49.36:884][  0]LogUObjectAllocator: 6798048 out of 0 bytes used by permanent object pool.
+[2023.02.28-09.49.36:884][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.02.28-09.49.36:916][  0]LogClass: Display: StructProperty FBiomeMapElement::Color is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelBiomeMapNode.h
+[2023.02.28-09.49.36:916][  0]LogClass: Display: EnumProperty FVoxelGraphMacroPin::Category is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelGraphMacro.h
+[2023.02.28-09.49.36:916][  0]LogClass: Display: 2 Uninitialized script struct members found including 0 object properties
+[2023.02.28-09.49.36:917][  0]LogEngine: Initializing Engine...
+[2023.02.28-09.49.36:918][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.02.28-09.49.36:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.02.28-09.49.36:918][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.02.28-09.49.36:919][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.02.28-09.49.37:023][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.02.28-09.49.37:023][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.02.28-09.49.37:025][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.02.28-09.49.37:025][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.02.28-09.49.37:025][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.02.28-09.49.37:025][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.28-09.49.37:025][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.28-09.49.37:025][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.28-09.49.37:026][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.28-09.49.37:026][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.28-09.49.37:026][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.28-09.49.37:026][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.28-09.49.37:035][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.28-09.49.37:035][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.02.28-09.49.37:049][  0]LogAudioMixer: Display: Using Audio Device 耳机 (A-pro F Stereo)
+[2023.02.28-09.49.37:055][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.28-09.49.37:056][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.28-09.49.37:056][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.28-09.49.37:057][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.28-09.49.37:057][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.28-09.49.37:057][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.28-09.49.37:058][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.28-09.49.37:058][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.28-09.49.37:058][  0]LogInit: FAudioDevice initialized.
+[2023.02.28-09.49.37:059][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.02.28-09.49.37:061][  0]LogInit: Texture streaming: Enabled
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_57' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_64' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_65' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_66' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_67' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_68' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:170][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.02.28-09.49.37:174][  0]LogSkeletalMesh: Display: [AssetLog] G:\UnrealStudent\MultiplayerGame03\Content\SciFiWeapDark\Weapons\Darkness_Pistol.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.02.28-09.49.37:178][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.02.28-09.49.37:178][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.49.37:180][  0]LogInit: Display: Game Engine Initialized.
+[2023.02.28-09.49.37:180][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2023.02.28-09.49.37:265][  0]LogInit: Display: Starting Game.
+[2023.02.28-09.49.37:265][  0]LogNet: Browse: /Game/MultiplayerGame/Maps/MainMenu?Name=Player
+[2023.02.28-09.49.37:265][  0]LogLoad: LoadMap: /Game/MultiplayerGame/Maps/MainMenu?Name=Player
+[2023.02.28-09.49.37:265][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.02.28-09.49.37:266][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-09.49.37:266][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.49.37:270][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.49.37:272][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.28-09.49.37:320][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.02.28-09.49.37:323][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.28-09.49.37:323][  0]LogLoad: Game class is 'BP_MainMenuGameMode_C'
+[2023.02.28-09.49.37:324][  0]LogWorld: Bringing World /Game/MultiplayerGame/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2023.02.28-17.49.37
+[2023.02.28-09.49.37:324][  0]LogWorld: Bringing up level for play took: 0.000344
+[2023.02.28-09.49.37:324][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.02.28-09.49.37:325][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.28-09.49.37:325][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.02.28-09.49.37:325][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.02.28-09.49.37:325][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.28-09.49.37:325][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.02.28-09.49.37:325][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.02.28-09.49.37:326][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.02.28-09.49.37:326][  0]LogLoad: Took 0.061196 seconds to LoadMap(/Game/MultiplayerGame/Maps/MainMenu)
+[2023.02.28-09.49.37:418][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.28-09.49.37:463][  0]LogRenderer: Reallocating scene render targets to support 640x360 Format 10 NumSamples 1 (Frame:1).
+[2023.02.28-09.49.37:463][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.02.28-09.49.37:463][  0]LogLoad: (Engine Initialization) Total time: 3.72 seconds
+[2023.02.28-09.49.37:463][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.02.28-09.49.37:478][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.02.28-09.49.37:481][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.49.37:528][  1]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.02.28-09.50.04:120][787]LogOnlineSession: OSS: Join session: traveling to 10.4.145.94:7777
+[2023.02.28-09.50.04:120][787]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.02.28-09.50.04:120][787]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.02.28-09.50.04:120][787]LogNet: Browse: 10.4.145.94/Game/MultiplayerGame/Maps/MainMenu
+[2023.02.28-09.50.04:120][787]LogOnline: OSS: Creating online subsystem instance for: STEAM
+[2023.02.28-09.50.04:128][787]LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2023.02.28-09.50.04:128][787]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2023.02.28-09.50.04:128][787]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.02.28-09.50.04:129][787]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2023.02.28-09.50.04:129][787]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.02.28-09.50.04:129][787]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2023.02.28-09.50.04:129][787]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2023.02.28-09.50.04:129][787]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.02.28-09.50.04:129][787]LogNet: Game client on port 7777, rate 100000
+[2023.02.28-09.50.05:164][ 64]LogHandshake: SendChallengeResponse. Timestamp: 19.691489, Cookie: 100019138205099014133142147092160125070062007252127099155130
+[2023.02.28-09.50.05:189][ 68]LogNetVersion: MultiplayerGame 1.0.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1137704906)
+[2023.02.28-09.50.05:189][ 68]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 10.4.145.94:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_0, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.02.28-09.50.05:227][ 75]LogNet: Welcomed by server (Level: /Game/MultiplayerGame/Maps/Lobby, Game: /Game/MultiplayerGame/Blueprints/Lobby/BP_LobbyGameMode.BP_LobbyGameMode_C)
+[2023.02.28-09.50.05:228][ 75]LogLoad: LoadMap: 10.4.145.94/Game/MultiplayerGame/Maps/Lobby?game=/Game/MultiplayerGame/Blueprints/Lobby/BP_LobbyGameMode.BP_LobbyGameMode_C
+[2023.02.28-09.50.05:228][ 75]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/MainMenu
+[2023.02.28-09.50.05:228][ 75]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-09.50.05:228][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.50.05:269][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.50.05:272][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.02.28-09.50.05:512][ 75]LogSkeletalMesh: Display: [AssetLog] G:\UnrealStudent\MultiplayerGame03\Content\InfinityBladeWarriors\Character\CompleteCharacters\SK_CharM_Robo.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.02.28-09.50.05:530][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lobby'.
+[2023.02.28-09.50.05:532][ 75]LogWorld: Bringing World /Game/MultiplayerGame/Maps/Lobby.Lobby up for play (max tick rate 0) at 2023.02.28-17.50.05
+[2023.02.28-09.50.05:532][ 75]LogWorld: Bringing up level for play took: 0.000701
+[2023.02.28-09.50.05:532][ 75]LogLoad: Took 0.305202 seconds to LoadMap(/Game/MultiplayerGame/Maps/Lobby)
+[2023.02.28-09.50.05:533][ 75]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2023.02.28-09.50.25:725][519]LogWorld: SeamlessTravel to: /Game/MultiplayerGame/Maps/Arena01
+[2023.02.28-09.50.25:727][520]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/Lobby
+[2023.02.28-09.50.25:727][520]LogWorld: UWorld::CleanupWorld for Lobby, bSessionEnded=false, bCleanupResources=true
+[2023.02.28-09.50.25:727][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.50.25:759][520]LogAudio: Display: Audio Device (ID: 1) registered with world 'Travel'.
+[2023.02.28-09.50.25:763][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.50.25:768][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.28-09.50.25:769][520]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.000 s
+[2023.02.28-09.50.25:769][520]LogWorld: Bringing World /Game/MultiplayerGame/Maps/Travel.Travel up for play (max tick rate 0) at 2023.02.28-17.50.25
+[2023.02.28-09.50.25:769][520]LogWorld: Bringing up level for play took: 0.000180
+[2023.02.28-09.50.25:769][520]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_LobbyPlayerController_C_0
+[2023.02.28-09.50.25:769][520]LogNet: Verbose: NotifyLoadedWorld Begin
+[2023.02.28-09.50.25:769][520]LogNet: VeryVerbose: GetFunctionCallspace RemoteRole Remote ServerNotifyLoadedWorld
+[2023.02.28-09.50.25:769][520]LogNetTraffic:       Sent RPC: BP_LobbyPlayerController_C /Game/MultiplayerGame/Maps/Travel.Travel:PersistentLevel.BP_LobbyPlayerController_C_0::ServerNotifyLoadedWorld [47.4 bytes]
+[2023.02.28-09.50.25:769][520]LogNetTraffic: VeryVerbose: Sending: FOutBunch: Channel[2] ChSequence: 406 NumBits: 379 PacketId: 0 bOpen: 0 bClose: 0 bIsReplicationPaused: 0 bReliable: 1 bPartial: 0//0//0 bHasPackageMapExports: 0 
+[2023.02.28-09.50.25:769][520]LogNetTraffic: Verbose: FNetPacketNotify::WriteHeader - Seq 4618, AckedSeq 5689 bReFresh 0 HistorySizeInWords 1
+[2023.02.28-09.50.25:769][520]LogNetTraffic: Verbose: UNetConnection::SendRawBunch. ChIndex: 2. Bits: 379. PacketId: 4618
+[2023.02.28-09.50.25:769][520]LogNet: Verbose: NotifyLoadedWorld End
+[2023.02.28-09.50.25:769][520]LogWorld: StartLoadingDestination to: /Game/MultiplayerGame/Maps/Arena01
+[2023.02.28-09.50.25:808][523]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/Travel
+[2023.02.28-09.50.25:808][523]LogWorld: UWorld::CleanupWorld for Travel, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-09.50.25:808][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-09.50.25:839][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'Arena01'.
+[2023.02.28-09.50.25:842][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.28-09.50.25:843][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.02.28-09.50.25:844][523]LogStats:     SeamlessTravel FlushLevelStreaming  -  0.000 s
+[2023.02.28-09.50.25:845][523]LogWorld: Bringing World /Game/MultiplayerGame/Maps/Arena01.Arena01 up for play (max tick rate 0) at 2023.02.28-17.50.25
+[2023.02.28-09.50.25:845][523]LogWorld: Bringing up level for play took: 0.000979
+[2023.02.28-09.50.25:846][523]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2023.02.28-09.50.25:846][523]LogWorld: Sending NotifyLoadedWorld for LP: LocalPlayer_0 PC: BP_LobbyPlayerController_C_0
+[2023.02.28-09.50.25:846][523]LogNet: Verbose: NotifyLoadedWorld Begin
+[2023.02.28-09.50.25:846][523]LogNet: VeryVerbose: GetFunctionCallspace RemoteRole Remote ServerNotifyLoadedWorld
+[2023.02.28-09.50.25:846][523]LogNetTraffic:       Sent RPC: BP_LobbyPlayerController_C /Game/MultiplayerGame/Maps/Arena01.Arena01:PersistentLevel.BP_LobbyPlayerController_C_0::ServerNotifyLoadedWorld [48.4 bytes]
+[2023.02.28-09.50.25:846][523]LogNetTraffic: VeryVerbose: Sending: FOutBunch: Channel[2] ChSequence: 407 NumBits: 387 PacketId: 0 bOpen: 0 bClose: 0 bIsReplicationPaused: 0 bReliable: 1 bPartial: 0//0//0 bHasPackageMapExports: 0 
+[2023.02.28-09.50.25:846][523]LogNetTraffic: Verbose: FNetPacketNotify::WriteHeader - Seq 4620, AckedSeq 5690 bReFresh 0 HistorySizeInWords 1
+[2023.02.28-09.50.25:846][523]LogNetTraffic: Verbose: UNetConnection::SendRawBunch. ChIndex: 2. Bits: 387. PacketId: 4620
+[2023.02.28-09.50.25:846][523]LogNet: Verbose: NotifyLoadedWorld End
+[2023.02.28-09.50.25:846][523]LogWorld: ----SeamlessTravel finished in 0.12 seconds ------
+[2023.02.28-09.50.25:846][523]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2023.02.28-09.50.26:164][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-09.51.12:732][308]LogCharacterMovement: BP_Target_C_42 is stuck and failed to move! Velocity: X=3.00 Y=-7.00 Z=0.00 Location: X=-409.13 Y=183.16 Z=182.44 Normal: X=-0.89 Y=0.45 Z=0.00 PenetrationDepth:0.295 Actor:BP_Target_C_54 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.28:783][651]LogCharacterMovement: BP_Target_C_48 is stuck and failed to move! Velocity: X=-34.00 Y=35.00 Z=0.00 Location: X=504.36 Y=629.00 Z=182.58 Normal: X=0.36 Y=-0.93 Z=0.00 PenetrationDepth:0.475 Actor:BP_Target_C_62 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.29:584][861]LogCharacterMovement: BP_Target_C_68 is stuck and failed to move! Velocity: X=-67.00 Y=-19.00 Z=0.00 Location: X=-417.35 Y=163.24 Z=182.41 Normal: X=0.98 Y=-0.19 Z=-0.00 PenetrationDepth:0.906 Actor:BP_Target_C_102 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.31:476][356]LogCharacterMovement: BP_Target_C_54 is stuck and failed to move! Velocity: X=1.00 Y=-44.00 Z=0.00 Location: X=-715.68 Y=-20.30 Z=182.38 Normal: X=-0.73 Y=0.68 Z=-0.00 PenetrationDepth:0.020 Actor:BP_Target_C_89 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.35:185][313]LogCharacterMovement: BP_Target_C_4 is stuck and failed to move! Velocity: X=-76.00 Y=-16.00 Z=0.00 Location: X=-395.14 Y=-321.04 Z=182.48 Normal: X=1.00 Y=0.10 Z=-0.00 PenetrationDepth:0.765 Actor:BP_Target_C_96 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.38:583][371]LogCharacterMovement: BP_Target_C_73 is stuck and failed to move! Velocity: X=397.00 Y=274.00 Z=0.00 Location: X=-1125.14 Y=515.71 Z=182.65 Normal: X=-0.84 Y=-0.55 Z=0.00 PenetrationDepth:0.086 Actor:BP_Target_C_32 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.45:446][534]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=25.00 Y=14.00 Z=0.00 Location: X=-774.43 Y=152.56 Z=182.40 Normal: X=-0.99 Y=0.14 Z=-0.00 PenetrationDepth:0.327 Actor:BP_Target_C_89 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.47:920][340]LogCharacterMovement: BP_Target_C_73 is stuck and failed to move! Velocity: X=30.00 Y=45.00 Z=0.00 Location: X=-115.63 Y=1136.53 Z=182.64 Normal: X=-0.95 Y=-0.32 Z=0.00 PenetrationDepth:0.747 Actor:BP_Target_C_101 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.47:984][359]LogCharacterMovement: BP_Target_C_106 is stuck and failed to move! Velocity: X=-66.00 Y=-141.00 Z=0.00 Location: X=-687.37 Y=21.97 Z=182.62 Normal: X=0.97 Y=0.24 Z=0.00 PenetrationDepth:1.170 Actor:BP_Target_C_12 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.51:447][376]LogCharacterMovement: BP_Target_C_42 is stuck and failed to move! Velocity: X=-126.00 Y=-4.00 Z=0.00 Location: X=-438.94 Y=453.76 Z=205.02 Normal: X=0.87 Y=-0.43 Z=0.23 PenetrationDepth:0.500 Actor:BP_Target_C_105 Component:CollisionCylinder BoneName:None (1 other events since notify)
+[2023.02.28-09.51.51:447][376]LogCharacterMovement: BP_Target_C_40 is stuck and failed to move! Velocity: X=-32.00 Y=0.00 Z=0.00 Location: X=-144.39 Y=530.81 Z=182.57 Normal: X=1.00 Y=-0.01 Z=0.00 PenetrationDepth:0.256 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.51:448][376]LogCharacterMovement: BP_Target_C_64 is stuck and failed to move! Velocity: X=-52.00 Y=-17.00 Z=0.00 Location: X=-345.50 Y=527.54 Z=182.48 Normal: X=0.97 Y=-0.24 Z=0.00 PenetrationDepth:0.744 Actor:BP_Target_C_102 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.52:277][640]LogCharacterMovement: BP_Target_C_55 is stuck and failed to move! Velocity: X=34.00 Y=-10.00 Z=0.00 Location: X=-221.61 Y=-620.60 Z=182.61 Normal: X=-0.82 Y=-0.58 Z=0.00 PenetrationDepth:0.188 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.52:277][640]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=21.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-563.18 Z=182.45 Normal: X=0.82 Y=0.58 Z=-0.00 PenetrationDepth:0.188 Actor:BP_Target_C_55 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.52:629][754]LogCharacterMovement: BP_Target_C_26 is stuck and failed to move! Velocity: X=-4.00 Y=53.00 Z=0.00 Location: X=-633.28 Y=-289.83 Z=182.48 Normal: X=0.45 Y=-0.89 Z=-0.00 PenetrationDepth:0.917 Actor:BP_Target_C_89 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.52:629][754]LogCharacterMovement: BP_Target_C_91 is stuck and failed to move! Velocity: X=-138.00 Y=-198.00 Z=0.00 Location: X=-579.31 Y=710.18 Z=182.58 Normal: X=0.85 Y=0.52 Z=-0.00 PenetrationDepth:3.678 Actor:BP_Target_C_104 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.52:644][759]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=-4.00 Y=-7.00 Z=0.00 Location: X=-527.87 Y=395.23 Z=182.40 Normal: X=1.00 Y=-0.09 Z=-0.00 PenetrationDepth:0.004 Actor:BP_Target_C_81 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.51.53:685][ 89]LogCharacterMovement: BP_Target_C_55 is stuck and failed to move! Velocity: X=11.00 Y=-4.00 Z=0.00 Location: X=-218.98 Y=-622.69 Z=182.61 Normal: X=0.31 Y=0.95 Z=0.00 PenetrationDepth:0.074 Actor:BP_Target_C_71 Component:CollisionCylinder BoneName:None (10 other events since notify)
+[2023.02.28-09.51.53:733][105]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=21.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-561.37 Z=182.45 Normal: X=0.79 Y=0.62 Z=-0.00 PenetrationDepth:0.016 Actor:BP_Target_C_55 Component:CollisionCylinder BoneName:None (10 other events since notify)
+[2023.02.28-09.51.56:011][171]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.28-09.51.56:011][171]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.28-09.52.01:593][633]LogCharacterMovement: BP_Target_C_71 is stuck and failed to move! Velocity: X=-3.00 Y=-3.00 Z=0.00 Location: X=-251.61 Y=-718.96 Z=182.61 Normal: X=-0.21 Y=0.98 Z=0.00 PenetrationDepth:0.018 Actor:BP_Target_C_49 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.01:798][674]LogCharacterMovement: BP_Target_C_84 is stuck and failed to move! Velocity: X=-75.00 Y=105.00 Z=0.00 Location: X=-146.79 Y=-847.27 Z=182.59 Normal: X=0.96 Y=-0.29 Z=0.00 PenetrationDepth:1.777 Actor:BP_Target_C_49 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.04:343][416]LogCharacterMovement: BP_Target_C_60 is stuck and failed to move! Velocity: X=216.00 Y=560.00 Z=0.00 Location: X=-424.97 Y=348.89 Z=182.62 Normal: X=-0.63 Y=-0.66 Z=-0.41 PenetrationDepth:0.528 Actor:BP_Target_C_48 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.05:043][600]LogCharacterMovement: BP_Target_C_42 is stuck and failed to move! Velocity: X=-75.00 Y=190.00 Z=0.00 Location: X=-495.36 Y=464.87 Z=204.79 Normal: X=0.97 Y=0.03 Z=0.23 PenetrationDepth:1.367 Actor:BP_Target_C_81 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.05:310][665]LogCharacterMovement: BP_Target_C_29 is stuck and failed to move! Velocity: X=0.00 Y=52.00 Z=0.00 Location: X=-140.00 Y=-392.45 Z=182.48 Normal: X=0.26 Y=-0.97 Z=0.00 PenetrationDepth:0.204 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.05:667][751]LogCharacterMovement: BP_Target_C_60 is stuck and failed to move! Velocity: X=118.00 Y=306.00 Z=0.00 Location: X=-424.94 Y=348.78 Z=182.65 Normal: X=-0.63 Y=-0.67 Z=-0.41 PenetrationDepth:0.490 Actor:BP_Target_C_48 Component:CollisionCylinder BoneName:None (54 other events since notify)
+[2023.02.28-09.52.08:267][393]LogCharacterMovement: BP_Target_C_103 is stuck and failed to move! Velocity: X=16.00 Y=2.00 Z=0.00 Location: X=-973.27 Y=863.69 Z=182.49 Normal: X=-0.79 Y=-0.61 Z=-0.00 PenetrationDepth:0.055 Actor:BP_Target_C_45 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.11:047][ 99]LogCharacterMovement: BP_Target_C_66 is stuck and failed to move! Velocity: X=7.00 Y=-27.00 Z=0.00 Location: X=-1242.69 Y=860.06 Z=182.26 Normal: X=0.05 Y=1.00 Z=-0.00 PenetrationDepth:0.479 Actor:BP_Target_C_35 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.11:127][119]LogCharacterMovement: BP_Target_C_54 is stuck and failed to move! Velocity: X=28.00 Y=12.00 Z=0.00 Location: X=-243.93 Y=-805.31 Z=182.39 Normal: X=-0.93 Y=0.38 Z=-0.00 PenetrationDepth:0.126 Actor:BP_Target_C_92 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.11:700][278]LogCharacterMovement: BP_Target_C_97 is stuck and failed to move! Velocity: X=62.00 Y=137.00 Z=0.00 Location: X=-1102.63 Y=690.34 Z=182.63 Normal: X=0.43 Y=-0.90 Z=0.00 PenetrationDepth:0.424 Actor:BP_Target_C_104 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.14:560][941]LogCharacterMovement: BP_Target_C_85 is stuck and failed to move! Velocity: X=392.00 Y=444.00 Z=0.00 Location: X=-717.76 Y=71.37 Z=182.59 Normal: X=-0.39 Y=-0.92 Z=0.00 PenetrationDepth:0.818 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.21:844][759]LogCharacterMovement: BP_Target_C_57 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.56 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.52.23:090][ 53]LogCharacterMovement: BP_Target_C_57 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-442.07 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.52.24:073][315]LogCharacterMovement: BP_Target_C_68 is stuck and failed to move! Velocity: X=-5.00 Y=13.00 Z=0.00 Location: X=-1146.62 Y=835.92 Z=182.32 Normal: X=0.95 Y=0.31 Z=-0.00 PenetrationDepth:0.004 Actor:BP_Target_C_106 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.29:888][802]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.00 Y=-564.28 Z=182.48 Normal: X=0.14 Y=0.99 Z=-0.00 PenetrationDepth:0.510 Actor:BP_Target_C_89 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2023.02.28-09.52.29:891][803]LogCharacterMovement: BP_Target_C_89 is stuck and failed to move! Velocity: X=-5.00 Y=-2.00 Z=0.00 Location: X=-153.55 Y=-662.84 Z=182.59 Normal: X=-0.14 Y=-0.99 Z=0.00 PenetrationDepth:0.493 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.38:455][ 77]LogCharacterMovement: BP_Target_C_41 is stuck and failed to move! Velocity: X=32.00 Y=-36.00 Z=0.00 Location: X=-157.95 Y=-920.04 Z=182.58 Normal: X=-0.36 Y=0.93 Z=0.00 PenetrationDepth:0.311 Actor:BP_Target_C_65 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.45:478][225]LogCharacterMovement: BP_Target_C_7 is stuck and failed to move! Velocity: X=-12.00 Y=20.00 Z=0.00 Location: X=-1141.48 Y=795.55 Z=182.48 Normal: X=1.00 Y=-0.06 Z=-0.00 PenetrationDepth:0.131 Actor:BP_Target_C_95 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.47:245][781]LogCharacterMovement: BP_Target_C_29 is stuck and failed to move! Velocity: X=-160.00 Y=1.00 Z=0.00 Location: X=63.35 Y=-780.01 Z=182.49 Normal: X=0.98 Y=0.22 Z=0.00 PenetrationDepth:0.740 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.52.56:664][847]LogCharacterMovement: BP_Target_C_54 is stuck and failed to move! Velocity: X=-14.00 Y=-7.00 Z=0.00 Location: X=131.85 Y=-775.02 Z=182.49 Normal: X=1.00 Y=0.05 Z=0.00 PenetrationDepth:0.048 Actor:BP_Target_C_29 Component:CollisionCylinder BoneName:None (15 other events since notify)
+[2023.02.28-09.52.59:097][521]LogCharacterMovement: BP_Target_C_89 is stuck and failed to move! Velocity: X=-354.00 Y=0.00 Z=0.00 Location: X=-322.20 Y=-620.00 Z=182.48 Normal: X=0.66 Y=0.75 Z=-0.00 PenetrationDepth:2.648 Actor:BP_Target_C_84 Component:CollisionCylinder BoneName:None (3 other events since notify)
+[2023.02.28-09.53.05:186][369]LogCharacterMovement: BP_Target_C_89 is stuck and failed to move! Velocity: X=-3.00 Y=-1.00 Z=0.00 Location: X=-1051.20 Y=-563.56 Z=182.48 Normal: X=0.55 Y=0.84 Z=0.00 PenetrationDepth:0.018 Actor:BP_Target_C_77 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.53.11:027][370]LogCharacterMovement: BP_Target_C_65 is stuck and failed to move! Velocity: X=-24.00 Y=52.00 Z=0.00 Location: X=-143.33 Y=-679.30 Z=182.48 Normal: X=-0.01 Y=-1.00 Z=0.00 PenetrationDepth:0.733 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.53.11:196][429]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.27 Y=-570.06 Z=182.42 Normal: X=0.08 Y=1.00 Z=-0.00 PenetrationDepth:0.193 Actor:BP_Target_C_65 Component:CollisionCylinder BoneName:None (4 other events since notify)
+[2023.02.28-09.53.15:130][807]LogCharacterMovement: BP_Target_C_98 is stuck and failed to move! Velocity: X=31.00 Y=5.00 Z=0.00 Location: X=-815.80 Y=-1000.07 Z=182.23 Normal: X=-0.97 Y=-0.24 Z=0.00 PenetrationDepth:0.169 Actor:BP_Target_C_105 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.53.15:283][866]LogCharacterMovement: BP_Target_C_50 is stuck and failed to move! Velocity: X=2.00 Y=-5.00 Z=0.00 Location: X=-789.63 Y=-903.17 Z=182.47 Normal: X=0.21 Y=0.98 Z=0.00 PenetrationDepth:0.017 Actor:BP_Target_C_98 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.53.21:993][869]LogCharacterMovement: BP_Target_C_42 is stuck and failed to move! Velocity: X=-591.00 Y=105.00 Z=0.00 Location: X=39.90 Y=-904.91 Z=182.27 Normal: X=0.61 Y=0.79 Z=-0.00 PenetrationDepth:0.041 Actor:BP_Target_C_19 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.53.40:880][202]LogCharacterMovement: BP_Target_C_89 is stuck and failed to move! Velocity: X=163.00 Y=-271.00 Z=0.00 Location: X=-767.40 Y=450.59 Z=182.43 Normal: X=-0.06 Y=1.00 Z=0.00 PenetrationDepth:2.860 Actor:BP_Target_C_17 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.53.49:718][272]LogCharacterMovement: BP_Target_C_42 is stuck and failed to move! Velocity: X=-18.00 Y=37.00 Z=0.00 Location: X=-155.28 Y=-667.00 Z=182.32 Normal: X=-0.15 Y=-0.99 Z=-0.00 PenetrationDepth:0.821 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.53.49:719][272]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=21.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-569.03 Z=182.42 Normal: X=0.15 Y=0.99 Z=0.00 PenetrationDepth:0.821 Actor:BP_Target_C_42 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2023.02.28-09.53.57:180][638]LogCharacterMovement: BP_Target_C_95 is stuck and failed to move! Velocity: X=2.00 Y=8.00 Z=0.00 Location: X=-547.65 Y=308.49 Z=182.57 Normal: X=-0.99 Y=-0.17 Z=0.00 PenetrationDepth:0.000 Actor:BP_Target_C_108 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.00:948][549]LogCharacterMovement: BP_Target_C_4 is stuck and failed to move! Velocity: X=24.00 Y=19.00 Z=0.00 Location: X=-1279.53 Y=-404.61 Z=182.42 Normal: X=-1.00 Y=-0.03 Z=-0.00 PenetrationDepth:0.165 Actor:BP_Target_C_74 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.03:586][203]LogCharacterMovement: BP_Target_C_85 is stuck and failed to move! Velocity: X=1.00 Y=-5.00 Z=0.00 Location: X=-139.85 Y=-736.75 Z=182.41 Normal: X=-0.30 Y=0.95 Z=-0.00 PenetrationDepth:0.021 Actor:BP_Target_C_78 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.04:530][419]LogCharacterMovement: BP_Target_C_82 is stuck and failed to move! Velocity: X=-30.00 Y=334.00 Z=0.00 Location: X=788.23 Y=-137.79 Z=182.49 Normal: X=0.02 Y=-1.00 Z=-0.00 PenetrationDepth:3.703 Actor:BP_Target_C_122 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.08:603][468]LogCharacterMovement: BP_Target_C_82 is stuck and failed to move! Velocity: X=-70.00 Y=493.00 Z=0.00 Location: X=786.86 Y=-58.38 Z=182.49 Normal: X=0.03 Y=-1.00 Z=-0.00 PenetrationDepth:2.048 Actor:BP_Target_C_122 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.21:002][463]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.00 Y=-560.10 Z=182.48 Normal: X=0.50 Y=0.87 Z=0.00 PenetrationDepth:0.108 Actor:BP_Target_C_99 Component:CollisionCylinder BoneName:None (13 other events since notify)
+[2023.02.28-09.54.26:435][673]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=14.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-481.26 Z=182.42 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:21.308 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.28:692][335]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=14.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-472.42 Z=182.42 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:12.470 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.54.40:211][272]LogCharacterMovement: BP_Target_C_160 is stuck and failed to move! Velocity: X=-18.00 Y=-9.00 Z=0.00 Location: X=-297.58 Y=637.48 Z=182.51 Normal: X=0.97 Y=0.23 Z=0.00 PenetrationDepth:0.022 Actor:BP_Target_C_156 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.41:273][565]LogCharacterMovement: BP_Target_C_172 is stuck and failed to move! Velocity: X=-1.00 Y=33.00 Z=0.00 Location: X=-140.03 Y=-675.02 Z=182.48 Normal: X=0.84 Y=-0.55 Z=0.00 PenetrationDepth:0.001 Actor:BP_Target_C_171 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.45:058][688]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=0.00 Y=184.00 Z=0.00 Location: X=-140.00 Y=-443.63 Z=182.48 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (1 other events since notify)
+[2023.02.28-09.54.47:021][284]LogCharacterMovement: BP_Target_C_81 is stuck and failed to move! Velocity: X=4.00 Y=4.00 Z=0.00 Location: X=-534.09 Y=401.39 Z=182.42 Normal: X=-0.97 Y=-0.26 Z=0.00 PenetrationDepth:0.006 Actor:BP_Target_C_153 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.51:621][661]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.57 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.54.57:150][206]LogCharacterMovement: BP_Target_C_191 is stuck and failed to move! Velocity: X=25.00 Y=44.00 Z=0.00 Location: X=-676.33 Y=6.42 Z=182.59 Normal: X=-0.78 Y=-0.63 Z=0.00 PenetrationDepth:0.914 Actor:BP_Target_C_195 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.57:903][404]LogCharacterMovement: BP_Target_C_188 is stuck and failed to move! Velocity: X=389.00 Y=228.00 Z=0.00 Location: X=-171.13 Y=889.22 Z=182.59 Normal: X=-0.83 Y=-0.56 Z=0.00 PenetrationDepth:0.793 Actor:BP_Target_C_145 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.54.57:975][424]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.06 Y=-582.01 Z=182.47 Normal: X=0.79 Y=0.61 Z=-0.00 PenetrationDepth:4.242 Actor:BP_Target_C_207 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.54.57:996][430]LogCharacterMovement: BP_Target_C_207 is stuck and failed to move! Velocity: X=181.00 Y=-131.00 Z=0.00 Location: X=-208.26 Y=-638.34 Z=182.60 Normal: X=-0.77 Y=-0.64 Z=0.00 PenetrationDepth:11.525 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.01:510][341]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=-41.00 Y=-599.00 Z=0.00 Location: X=-140.00 Y=-442.04 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.55.02:799][652]LogCharacterMovement: BP_Target_C_189 is stuck and failed to move! Velocity: X=-1.00 Y=-33.00 Z=0.00 Location: X=-1494.37 Y=129.85 Z=182.58 Normal: X=-0.93 Y=0.36 Z=0.00 PenetrationDepth:0.010 Actor:BP_Target_C_102 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.02:985][695]LogCharacterMovement: BP_Target_C_161 is stuck and failed to move! Velocity: X=-57.00 Y=-24.00 Z=0.00 Location: X=-274.98 Y=-130.57 Z=182.60 Normal: X=0.43 Y=0.90 Z=0.00 PenetrationDepth:0.366 Actor:BP_Target_C_178 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.03:070][713]LogCharacterMovement: BP_Target_C_178 is stuck and failed to move! Velocity: X=-254.00 Y=-69.00 Z=0.00 Location: X=-334.62 Y=-223.87 Z=182.40 Normal: X=0.90 Y=-0.43 Z=-0.00 PenetrationDepth:3.328 Actor:BP_Target_C_197 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.03:522][819]LogCharacterMovement: BP_Target_C_99 is stuck and failed to move! Velocity: X=102.00 Y=45.00 Z=0.00 Location: X=-312.89 Y=-896.91 Z=182.36 Normal: X=-0.25 Y=-0.97 Z=-0.00 PenetrationDepth:0.268 Actor:BP_Target_C_142 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.03:557][827]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-442.06 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (16 other events since notify)
+[2023.02.28-09.55.04:631][ 70]LogCharacterMovement: BP_Target_C_81 is stuck and failed to move! Velocity: X=-406.00 Y=0.00 Z=0.00 Location: X=-374.28 Y=-320.00 Z=182.40 Normal: X=0.87 Y=-0.49 Z=0.00 PenetrationDepth:2.203 Actor:BP_Target_C_178 Component:CollisionCylinder BoneName:None (23 other events since notify)
+[2023.02.28-09.55.05:312][235]LogCharacterMovement: BP_Target_C_209 is stuck and failed to move! Velocity: X=36.00 Y=-89.00 Z=0.00 Location: X=-1008.25 Y=-31.85 Z=182.59 Normal: X=0.12 Y=-0.99 Z=0.00 PenetrationDepth:2.202 Actor:BP_Target_C_175 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.06:882][627]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.53 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.55.16:434][978]LogCharacterMovement: BP_Target_C_190 is stuck and failed to move! Velocity: X=-61.00 Y=-109.00 Z=0.00 Location: X=-541.79 Y=408.52 Z=182.64 Normal: X=-0.11 Y=0.99 Z=0.00 PenetrationDepth:1.805 Actor:BP_Target_C_146 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.25:355][338]LogCharacterMovement: BP_Target_C_138 is stuck and failed to move! Velocity: X=-8.00 Y=0.00 Z=0.00 Location: X=7.86 Y=-780.00 Z=182.49 Normal: X=0.82 Y=0.58 Z=0.00 PenetrationDepth:0.052 Actor:BP_Target_C_99 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.26:352][577]LogCharacterMovement: BP_Target_C_184 is stuck and failed to move! Velocity: X=107.00 Y=62.00 Z=0.00 Location: X=-181.87 Y=-670.01 Z=182.42 Normal: X=-0.41 Y=-0.91 Z=-0.00 PenetrationDepth:0.131 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.26:463][605]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.04 Y=-570.96 Z=182.42 Normal: X=0.31 Y=0.95 Z=0.00 PenetrationDepth:1.804 Actor:BP_Target_C_184 Component:CollisionCylinder BoneName:None (4 other events since notify)
+[2023.02.28-09.55.26:750][673]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-442.08 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.55.28:828][182]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.52 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.55.30:400][568]LogCharacterMovement: BP_Target_C_178 is stuck and failed to move! Velocity: X=25.00 Y=-32.00 Z=0.00 Location: X=-1280.94 Y=-571.37 Z=182.33 Normal: X=-0.99 Y=0.12 Z=-0.00 PenetrationDepth:0.386 Actor:BP_Target_C_81 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.55.30:400][568]LogCharacterMovement: BP_Target_C_188 is stuck and failed to move! Velocity: X=-34.00 Y=-56.00 Z=0.00 Location: X=152.64 Y=-756.14 Z=182.49 Normal: X=0.97 Y=0.24 Z=0.00 PenetrationDepth:0.166 Actor:BP_Target_C_206 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.30:629][624]LogCharacterMovement: BP_Target_C_206 is stuck and failed to move! Velocity: X=-47.00 Y=0.00 Z=0.00 Location: X=46.16 Y=-780.00 Z=182.49 Normal: X=0.94 Y=0.34 Z=0.00 PenetrationDepth:0.425 Actor:BP_Target_C_138 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.30:728][648]LogCharacterMovement: BP_Target_C_164 is stuck and failed to move! Velocity: X=-14.00 Y=-82.00 Z=0.00 Location: X=-1124.59 Y=520.01 Z=182.52 Normal: X=-0.50 Y=0.87 Z=0.00 PenetrationDepth:0.602 Actor:BP_Target_C_167 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.55.42:781][490]LogCharacterMovement: BP_Target_C_161 is stuck and failed to move! Velocity: X=14.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-466.35 Z=182.42 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:0.044 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (1 other events since notify)
+[2023.02.28-09.55.43:015][546]LogCharacterMovement: BP_Target_C_184 is stuck and failed to move! Velocity: X=341.00 Y=-387.00 Z=0.00 Location: X=-157.27 Y=-733.09 Z=182.48 Normal: X=-0.71 Y=0.71 Z=0.00 PenetrationDepth:6.877 Actor:BP_Target_C_179 Component:CollisionCylinder BoneName:None (14 other events since notify)
+[2023.02.28-09.55.43:620][694]LogCharacterMovement: BP_Target_C_124 is stuck and failed to move! Velocity: X=-55.00 Y=-1.00 Z=0.00 Location: X=-260.61 Y=230.00 Z=182.48 Normal: X=0.99 Y=0.14 Z=0.00 PenetrationDepth:0.679 Actor:BP_Target_C_177 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2023.02.28-09.55.44:056][797]LogCharacterMovement: BP_Target_C_161 is stuck and failed to move! Velocity: X=14.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-469.49 Z=182.42 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:3.245 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.55.50:204][383]LogCharacterMovement: BP_Target_C_206 is stuck and failed to move! Velocity: X=-3.00 Y=7.00 Z=0.00 Location: X=-946.53 Y=-181.05 Z=182.49 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:0.020 Actor:BP_Target_C_99 Component:CollisionCylinder BoneName:None (4 other events since notify)
+[2023.02.28-09.55.52:495][988]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-442.02 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.56.00:123][847]LogCharacterMovement: BP_Target_C_188 is stuck and failed to move! Velocity: X=-275.00 Y=0.00 Z=0.00 Location: X=61.49 Y=-780.04 Z=182.49 Normal: X=0.76 Y=0.65 Z=0.00 PenetrationDepth:2.639 Actor:BP_Target_C_150 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.02:274][330]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-443.52 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (15 other events since notify)
+[2023.02.28-09.56.08:045][694]LogCharacterMovement: BP_Target_C_155 is stuck and failed to move! Velocity: X=-37.00 Y=-89.00 Z=0.00 Location: X=-817.72 Y=4.37 Z=182.42 Normal: X=-0.13 Y=0.99 Z=0.00 PenetrationDepth:1.022 Actor:BP_Target_C_156 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.09:984][219]LogCharacterMovement: BP_Target_C_191 is stuck and failed to move! Velocity: X=-4.00 Y=4.00 Z=0.00 Location: X=-563.66 Y=357.19 Z=182.43 Normal: X=-0.44 Y=-0.90 Z=0.00 PenetrationDepth:0.002 Actor:BP_Target_C_166 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.12:382][826]LogCharacterMovement: BP_Target_C_148 is stuck and failed to move! Velocity: X=-84.00 Y=-99.00 Z=0.00 Location: X=-869.40 Y=83.38 Z=182.60 Normal: X=0.62 Y=0.79 Z=0.00 PenetrationDepth:0.592 Actor:BP_Target_C_102 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.14:360][270]LogCharacterMovement: BP_Target_C_194 is stuck and failed to move! Velocity: X=0.00 Y=-7.00 Z=0.00 Location: X=-92.33 Y=-780.72 Z=182.60 Normal: X=-1.00 Y=0.01 Z=0.00 PenetrationDepth:0.015 Actor:BP_Target_C_188 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.19:150][373]LogCharacterMovement: BP_Target_C_45 is stuck and failed to move! Velocity: X=9.00 Y=-7.00 Z=0.00 Location: X=438.73 Y=530.00 Z=182.44 Normal: X=-0.63 Y=-0.78 Z=0.00 PenetrationDepth:0.000 Actor:BP_Target_C_154 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.27:471][633]LogCharacterMovement: BP_Target_C_206 is stuck and failed to move! Velocity: X=-117.00 Y=0.00 Z=0.00 Location: X=-83.54 Y=530.00 Z=182.49 Normal: X=1.00 Y=-0.00 Z=0.00 PenetrationDepth:0.130 Actor:BP_Target_C_203 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2023.02.28-09.56.28:131][817]LogCharacterMovement: BP_Target_C_159 is stuck and failed to move! Velocity: X=0.00 Y=-20.00 Z=0.00 Location: X=-440.00 Y=-485.75 Z=182.49 Normal: X=0.95 Y=0.32 Z=0.00 PenetrationDepth:0.007 Actor:BP_Target_C_81 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.28:793][988]LogCharacterMovement: BP_Target_C_162 is stuck and failed to move! Velocity: X=545.00 Y=17.00 Z=0.00 Location: X=-38.96 Y=-780.01 Z=182.47 Normal: X=-0.99 Y=0.11 Z=-0.00 PenetrationDepth:1.568 Actor:BP_Target_C_194 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.35:780][719]LogCharacterMovement: BP_Target_C_190 is stuck and failed to move! Velocity: X=0.00 Y=19.00 Z=0.00 Location: X=780.00 Y=435.73 Z=182.51 Normal: X=-0.32 Y=-0.95 Z=0.00 PenetrationDepth:0.148 Actor:BP_Target_C_153 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.36:835][979]LogCharacterMovement: BP_Target_C_150 is stuck and failed to move! Velocity: X=0.00 Y=3.00 Z=0.00 Location: X=35.23 Y=-779.99 Z=182.49 Normal: X=-0.00 Y=-1.00 Z=-0.00 PenetrationDepth:0.000 Actor:Ramp_StaticMesh Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.02.28-09.56.37:929][240]LogCharacterMovement: BP_Target_C_152 is stuck and failed to move! Velocity: X=-97.00 Y=-11.00 Z=0.00 Location: X=-450.66 Y=305.31 Z=182.43 Normal: X=0.91 Y=0.41 Z=-0.00 PenetrationDepth:0.051 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.42:624][405]LogCharacterMovement: BP_Target_C_145 is stuck and failed to move! Velocity: X=571.00 Y=185.00 Z=0.00 Location: X=-914.01 Y=824.56 Z=182.51 Normal: X=0.72 Y=0.70 Z=0.00 PenetrationDepth:0.032 Actor:BP_Target_C_63 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.44:867][ 72]LogCharacterMovement: BP_Target_C_150 is stuck and failed to move! Velocity: X=591.00 Y=104.00 Z=0.00 Location: X=39.82 Y=-780.00 Z=182.49 Normal: X=-0.87 Y=0.50 Z=0.00 PenetrationDepth:0.153 Actor:BP_Target_C_190 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.56.49:774][557]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.53 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (2 other events since notify)
+[2023.02.28-09.56.51:743][183]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-442.03 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (12 other events since notify)
+[2023.02.28-09.56.53:857][823]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-443.56 Z=182.42 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (13 other events since notify)
+[2023.02.28-09.56.56:086][479]LogCharacterMovement: BP_Target_C_155 is stuck and failed to move! Velocity: X=26.00 Y=12.00 Z=0.00 Location: X=-269.44 Y=-821.74 Z=182.41 Normal: X=-0.29 Y=-0.96 Z=0.00 PenetrationDepth:0.140 Actor:BP_Target_C_167 Component:CollisionCylinder BoneName:None (1 other events since notify)
+[2023.02.28-09.56.56:090][480]LogCharacterMovement: BP_Target_C_99 is stuck and failed to move! Velocity: X=7.00 Y=1.00 Z=0.00 Location: X=-352.57 Y=-650.30 Z=182.48 Normal: X=-0.95 Y=-0.30 Z=0.00 PenetrationDepth:0.001 Actor:BP_Target_C_163 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.56.56:308][537]LogCharacterMovement: BP_Target_C_196 is stuck and failed to move! Velocity: X=13.00 Y=-600.00 Z=0.00 Location: X=-139.99 Y=-442.07 Z=181.30 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (4 other events since notify)
+[2023.02.28-09.56.59:800][553]LogCharacterMovement: BP_Target_C_162 is stuck and failed to move! Velocity: X=0.00 Y=-83.00 Z=0.00 Location: X=160.00 Y=-675.23 Z=182.49 Normal: X=-0.47 Y=0.88 Z=0.00 PenetrationDepth:0.043 Actor:BP_Target_C_153 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.09:059][414]LogCharacterMovement: BP_Target_C_163 is stuck and failed to move! Velocity: X=66.00 Y=-8.00 Z=0.00 Location: X=-231.50 Y=-623.24 Z=182.48 Normal: X=-0.91 Y=-0.41 Z=0.00 PenetrationDepth:0.206 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.09:159][444]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.06 Y=-574.00 Z=182.48 Normal: X=0.86 Y=0.51 Z=0.00 PenetrationDepth:0.009 Actor:BP_Target_C_163 Component:CollisionCylinder BoneName:None (13 other events since notify)
+[2023.02.28-09.57.22:424][926]LogCharacterMovement: BP_Target_C_208 is stuck and failed to move! Velocity: X=-28.00 Y=-52.00 Z=0.00 Location: X=781.33 Y=184.84 Z=182.51 Normal: X=-0.34 Y=0.94 Z=0.00 PenetrationDepth:0.336 Actor:BP_Target_C_209 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.23:137][ 83]LogCharacterMovement: BP_Target_C_81 is stuck and failed to move! Velocity: X=3.00 Y=7.00 Z=0.00 Location: X=-409.96 Y=404.11 Z=192.38 Normal: X=0.47 Y=-0.88 Z=0.10 PenetrationDepth:0.060 Actor:BP_Target_C_210 Component:CollisionCylinder BoneName:None (1 other events since notify)
+[2023.02.28-09.57.23:273][115]LogCharacterMovement: BP_Target_C_172 is stuck and failed to move! Velocity: X=-1.00 Y=-72.00 Z=0.00 Location: X=-366.97 Y=531.54 Z=182.48 Normal: X=0.92 Y=0.40 Z=0.00 PenetrationDepth:0.144 Actor:BP_Target_C_210 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.24:586][426]LogCharacterMovement: BP_Target_C_191 is stuck and failed to move! Velocity: X=-73.00 Y=-20.00 Z=0.00 Location: X=-606.57 Y=476.60 Z=182.22 Normal: X=0.75 Y=0.66 Z=-0.00 PenetrationDepth:0.672 Actor:BP_Target_C_20 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.26:741][ 72]LogCharacterMovement: BP_Target_C_63 is stuck and failed to move! Velocity: X=38.00 Y=-599.00 Z=0.00 Location: X=-1313.36 Y=-612.11 Z=182.48 Normal: X=0.09 Y=1.00 Z=0.00 PenetrationDepth:1.372 Actor:BP_Target_C_207 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.33:307][801]LogCharacterMovement: BP_Target_C_143 is stuck and failed to move! Velocity: X=-45.00 Y=95.00 Z=0.00 Location: X=-145.53 Y=-675.48 Z=182.51 Normal: X=-0.04 Y=-1.00 Z=0.00 PenetrationDepth:0.746 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.33:307][801]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-141.33 Y=-576.34 Z=182.41 Normal: X=0.04 Y=1.00 Z=-0.00 PenetrationDepth:0.746 Actor:BP_Target_C_143 Component:CollisionCylinder BoneName:None (23 other events since notify)
+[2023.02.28-09.57.45:490][110]LogCharacterMovement: BP_Target_C_169 is stuck and failed to move! Velocity: X=109.00 Y=363.00 Z=0.00 Location: X=-1156.27 Y=-7.03 Z=182.38 Normal: X=0.67 Y=0.74 Z=-0.00 PenetrationDepth:2.156 Actor:BP_Target_C_170 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.57.45:495][111]LogCharacterMovement: BP_Target_C_170 is stuck and failed to move! Velocity: X=495.00 Y=339.00 Z=0.00 Location: X=-1222.17 Y=-80.29 Z=182.63 Normal: X=-0.67 Y=-0.74 Z=0.00 PenetrationDepth:1.439 Actor:BP_Target_C_169 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.25:269][808]LogCharacterMovement: BP_Target_C_138 is stuck and failed to move! Velocity: X=-72.00 Y=0.00 Z=0.00 Location: X=429.23 Y=530.03 Z=182.51 Normal: X=0.67 Y=-0.74 Z=0.00 PenetrationDepth:0.718 Actor:BP_Target_C_210 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.26:386][ 10]LogCharacterMovement: BP_Target_C_216 is stuck and failed to move! Velocity: X=-29.00 Y=-37.00 Z=0.00 Location: X=-244.17 Y=663.58 Z=182.61 Normal: X=0.80 Y=0.60 Z=0.00 PenetrationDepth:0.232 Actor:BP_Target_C_209 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.27:886][423]LogCharacterMovement: BP_Target_C_203 is stuck and failed to move! Velocity: X=4.00 Y=2.00 Z=0.00 Location: X=-451.57 Y=484.57 Z=182.35 Normal: X=-0.92 Y=-0.28 Z=-0.27 PenetrationDepth:0.484 Actor:BP_Target_C_144 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.29:947][918]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.28-09.58.29:947][918]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.28-09.58.30:814][114]LogCharacterMovement: BP_Target_C_201 is stuck and failed to move! Velocity: X=2.00 Y=3.00 Z=0.00 Location: X=-1111.54 Y=-429.18 Z=182.33 Normal: X=0.34 Y=-0.94 Z=-0.00 PenetrationDepth:0.005 Actor:BP_Target_C_162 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.31:122][168]LogRenderer: Reallocating scene render targets to support 1920x1020 Format 10 NumSamples 1 (Frame:132646).
+[2023.02.28-09.58.34:681][902]LogCharacterMovement: BP_Target_C_138 is stuck and failed to move! Velocity: X=-19.00 Y=1.00 Z=0.00 Location: X=-270.39 Y=531.39 Z=181.80 Normal: X=0.80 Y=0.37 Z=-0.47 PenetrationDepth:0.076 Actor:BP_Target_C_144 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.58.58:135][516]LogCharacterMovement: BP_Target_C_213 is stuck and failed to move! Velocity: X=2.00 Y=-4.00 Z=0.00 Location: X=-1302.90 Y=35.58 Z=182.41 Normal: X=-0.85 Y=0.52 Z=-0.00 PenetrationDepth:0.006 Actor:BP_Target_C_245 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.11:278][318]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=12.00 Y=0.00 Z=0.00 Location: X=674.61 Y=-360.00 Z=182.51 Normal: X=-0.97 Y=0.24 Z=-0.00 PenetrationDepth:0.072 Actor:BP_Target_C_274 Component:CollisionCylinder BoneName:None (9 other events since notify)
+[2023.02.28-09.59.17:469][ 66]LogCharacterMovement: BP_Target_C_220 is stuck and failed to move! Velocity: X=503.00 Y=-327.00 Z=0.00 Location: X=-174.24 Y=-733.28 Z=182.48 Normal: X=0.84 Y=0.54 Z=-0.00 PenetrationDepth:0.037 Actor:BP_Target_C_239 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.17:469][ 66]LogCharacterMovement: BP_Target_C_239 is stuck and failed to move! Velocity: X=-600.00 Y=6.00 Z=0.00 Location: X=-258.13 Y=-787.61 Z=182.60 Normal: X=-0.84 Y=-0.54 Z=0.00 PenetrationDepth:0.037 Actor:BP_Target_C_220 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.33:252][773]LogCharacterMovement: BP_Target_C_193 is stuck and failed to move! Velocity: X=-33.00 Y=57.00 Z=0.00 Location: X=-112.49 Y=-925.78 Z=182.46 Normal: X=0.85 Y=-0.53 Z=0.00 PenetrationDepth:0.691 Actor:BP_Target_C_261 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.34:123][921]LogCharacterMovement: BP_Target_C_202 is stuck and failed to move! Velocity: X=102.00 Y=25.00 Z=0.00 Location: X=-208.35 Y=-666.09 Z=182.25 Normal: X=-0.71 Y=-0.71 Z=-0.00 PenetrationDepth:3.364 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.34:123][921]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-140.07 Y=-597.73 Z=182.43 Normal: X=0.71 Y=0.71 Z=0.00 PenetrationDepth:3.364 Actor:BP_Target_C_202 Component:CollisionCylinder BoneName:None (9 other events since notify)
+[2023.02.28-09.59.36:657][138]LogCharacterMovement: BP_Target_C_263 is stuck and failed to move! Velocity: X=14.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-466.74 Z=182.41 Normal: X=0.00 Y=1.00 Z=-0.00 PenetrationDepth:6.786 Actor:BP_Target_C_86 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.38:840][376]LogCharacterMovement: BP_Target_C_230 is stuck and failed to move! Velocity: X=-4.00 Y=-10.00 Z=0.00 Location: X=-91.09 Y=-800.03 Z=182.49 Normal: X=-0.65 Y=0.76 Z=0.00 PenetrationDepth:0.014 Actor:BP_Target_C_149 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.40:037][518]LogCharacterMovement: BP_Target_C_257 is stuck and failed to move! Velocity: X=-1.00 Y=-12.00 Z=0.00 Location: X=8.76 Y=-804.94 Z=182.49 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:0.068 Actor:BP_Target_C_143 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-09.59.43:789][958]LogCharacterMovement: BP_Target_C_20 is stuck and failed to move! Velocity: X=19.00 Y=2.00 Z=0.00 Location: X=-645.02 Y=-390.25 Z=182.51 Normal: X=-0.97 Y=0.23 Z=0.00 PenetrationDepth:0.174 Actor:BP_Target_C_193 Component:CollisionCylinder BoneName:None (3 other events since notify)
+[2023.02.28-09.59.45:141][ 67]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-33.00 Y=599.00 Z=0.00 Location: X=-140.00 Y=-496.37 Z=182.48 Normal: X=1.00 Y=0.00 Z=0.00 PenetrationDepth:0.000 Actor:CubeMesh_5 Component:StaticMeshComponent0 BoneName:None (24 other events since notify)
+[2023.02.28-09.59.46:262][157]LogCharacterMovement: BP_Target_C_201 is stuck and failed to move! Velocity: X=37.00 Y=44.00 Z=0.00 Location: X=-501.86 Y=-799.71 Z=182.29 Normal: X=-0.36 Y=-0.93 Z=-0.00 PenetrationDepth:0.585 Actor:BP_Target_C_266 Component:CollisionCylinder BoneName:None (2 other events since notify)
+[2023.02.28-09.59.49:629][914]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.28-09.59.49:629][914]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.28-09.59.51:634][529]LogCharacterMovement: BP_Target_C_143 is stuck and failed to move! Velocity: X=-5.00 Y=8.00 Z=0.00 Location: X=-288.68 Y=-787.00 Z=182.49 Normal: X=0.37 Y=-0.93 Z=0.00 PenetrationDepth:0.020 Actor:BP_Target_C_202 Component:CollisionCylinder BoneName:None (3 other events since notify)
+[2023.02.28-09.59.53:887][253]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=21.00 Y=-600.00 Z=0.00 Location: X=-140.00 Y=-564.98 Z=182.42 Normal: X=0.15 Y=0.99 Z=-0.00 PenetrationDepth:0.728 Actor:BP_Target_C_257 Component:CollisionCylinder BoneName:None (7 other events since notify)
+[2023.02.28-09.59.58:103][441]LogCharacterMovement: BP_Target_C_86 is stuck and failed to move! Velocity: X=-145.00 Y=-582.00 Z=0.00 Location: X=-154.53 Y=-658.02 Z=182.39 Normal: X=-0.10 Y=1.00 Z=-0.00 PenetrationDepth:2.583 Actor:BP_Target_C_296 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-10.00.05:212][325]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.28-10.00.05:212][325]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.28-10.00.06:816][807]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.28-10.00.06:816][807]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.28-10.00.13:082][187]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.28-10.00.13:082][187]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.02.28-10.00.15:186][850]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.02.28-10.00.15:186][850]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.02.28-10.00.17:296][659]LogCharacterMovement: BP_Target_C_292 is stuck and failed to move! Velocity: X=24.00 Y=-34.00 Z=0.00 Location: X=-701.63 Y=-339.50 Z=182.42 Normal: X=0.64 Y=0.77 Z=0.00 PenetrationDepth:0.007 Actor:BP_Target_C_227 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-10.00.24:104][157]LogCharacterMovement: BP_Target_C_301 is stuck and failed to move! Velocity: X=10.00 Y=-14.00 Z=0.00 Location: X=-11.55 Y=1024.21 Z=182.34 Normal: X=0.64 Y=0.77 Z=-0.00 PenetrationDepth:0.020 Actor:BP_Target_C_278 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2023.02.28-10.00.35:266][676]LogProjectileMovement: Warning: GetSimulationTimeStep() - Max iterations 4 hit while remaining time 0.052845 > MaxSimulationTimeStep (0.050) for '/Game/MultiplayerGame/Maps/Arena01.Arena01:PersistentLevel.BP_Projecticle_C_416.SphereCollision'
+[2023.02.28-10.00.59:297][574]LogWindowsDesktop: Alt-F4 pressed!
+[2023.02.28-10.00.59:305][574]LogSlate: Window 'MultiplayerGame (64-bit Development PCD3D_SM5) ' being destroyed
+[2023.02.28-10.00.59:310][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.00.59:310][574]LogEngine: All Windows Closed
+[2023.02.28-10.00.59:310][574]LogWindows: FPlatformMisc::RequestExit(0)
+[2023.02.28-10.00.59:310][574]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2023.02.28-10.00.59:310][574]LogCore: Engine exit requested (reason: Win RequestExit)
+[2023.02.28-10.00.59:310][575]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.02.28-10.00.59:310][575]LogInit: Display: PreExit Game.
+[2023.02.28-10.00.59:310][575]LogWorld: BeginTearingDown for /Game/MultiplayerGame/Maps/Arena01
+[2023.02.28-10.00.59:310][575]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2023.02.28-10.00.59:310][575]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2023.02.28-10.00.59:310][575]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 10.4.145.94:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: BP_RoomPlayerController_C_0, Owner: BP_RoomPlayerController_C_0, UniqueId: NULL:FTY-LEGION-PC-232EF15442531B1EEA3FE6ADA8374392, Channels: 55, Time: 2023.02.28-10.00.59
+[2023.02.28-10.00.59:310][575]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 10.4.145.94:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: NO, PC: BP_RoomPlayerController_C_0, Owner: BP_RoomPlayerController_C_0, UniqueId: NULL:FTY-LEGION-PC-232EF15442531B1EEA3FE6ADA8374392
+[2023.02.28-10.00.59:311][575]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2023.02.28-10.00.59:311][575]LogWorld: UWorld::CleanupWorld for Arena01, bSessionEnded=true, bCleanupResources=true
+[2023.02.28-10.00.59:311][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.28-10.01.00:216][575]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.02.28-10.01.00:216][575]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.02.28-10.01.00:216][575]LogAudio: Display: Audio Device unregistered from world 'Arena01'.
+[2023.02.28-10.01.00:249][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-10.01.00:250][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.28-10.01.00:252][575]LogAudio: Display: Audio Device Manager Shutdown
+[2023.02.28-10.01.00:259][575]LogExit: Preparing to exit.
+[2023.02.28-10.01.01:019][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.28-10.01.01:021][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.02.28-10.01.01:051][575]LogMoviePlayer: Shutting down movie player
+[2023.02.28-10.01.01:113][575]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.02.28-10.01.01:117][575]LogExit: Game engine shut down
+[2023.02.28-10.01.01:154][575]LogExit: Object subsystem successfully closed.
+[2023.02.28-10.01.01:174][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.28-10.01.01:174][575]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.02.28-10.01.01:174][575]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.02.28-10.01.01:174][575]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2023.02.28-10.01.01:174][575]LogShaderCompilers: Display: ================================================
+[2023.02.28-10.01.01:183][575]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.02.28-10.01.01:188][575]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (582)
+[2023.02.28-10.01.01:188][575]LogModuleManager: Shutting down and abandoning module SequenceRecorder (580)
+[2023.02.28-10.01.01:188][575]LogModuleManager: Shutting down and abandoning module AutomationController (578)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module Voice (574)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AIModule (572)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module GameplayDebugger (571)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AITestSuite (569)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module NavigationSystem (567)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module SteamVREditor (564)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module ToolMenus (563)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module OculusMR (560)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (558)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module TakeRecorder (557)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (554)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module TakesCore (552)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module OpenXRInput (550)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (548)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (546)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module WebMMedia (544)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (542)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (540)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (538)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module PlanarCut (536)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (534)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (532)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module CharacterAI (530)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module SessionServices (528)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (526)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AnimGraph (524)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module LiveCoding (522)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module LevelSequence (520)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (518)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MovieScene (516)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (514)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module PortalServices (512)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module PortalRpc (510)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module MessagingRpc (508)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (506)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module AudioMixerCore (505)
+[2023.02.28-10.01.01:189][575]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (502)
+[2023.02.28-10.01.01:194][575]LogModuleManager: Shutting down and abandoning module ProfilerService (500)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module TaskGraph (498)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module OculusInput (496)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module SQLiteSupport (494)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module DatabaseSupport (492)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MediaCompositing (490)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module Synthesis (488)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module TakeMovieScene (486)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (484)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (482)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GooglePAD (480)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module EditableMesh (478)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (476)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module CableComponent (474)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (472)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AssetTags (470)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AudioCapture (468)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (467)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (464)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AppleImageUtils (462)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module AndroidPermission (460)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (458)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module TemplateSequence (456)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module ImgMedia (454)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module VoxelExamples (452)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module VoxelNiagara (450)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module VoxelFoliage (448)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module VoxelGraph (446)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (444)
+[2023.02.28-10.01.01:292][575]LogOpenImageDenoise: OIDN shutting down
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MotoSynth (442)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MeshConversion (440)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module DynamicMesh (438)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (436)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometricObjects (434)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (432)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (430)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (428)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (426)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (424)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (422)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (421)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCache (418)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (417)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (414)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (413)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module ChaosNiagara (410)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (409)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (406)
+[2023.02.28-10.01.01:292][575]LogModuleManager: Shutting down and abandoning module HotReload (405)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module BackChannel (402)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module AutomationUtils (400)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (392)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module SourceControl (391)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (388)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (386)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (384)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (382)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (380)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (378)
+[2023.02.28-10.01.01:293][575]LogModuleManager: Shutting down and abandoning module LiveLink (376)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module SQLiteCore (374)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module SignificanceManager (372)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (370)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (366)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (364)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (360)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (358)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (356)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module ActorSequence (354)
+[2023.02.28-10.01.02:027][575]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2023.02.28-10.01.02:129][575]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (348)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (346)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (344)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (342)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (340)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (338)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (336)
+[2023.02.28-10.01.02:229][575]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (334)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (332)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (330)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (328)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapController (326)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (324)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module MagicLeapAR (322)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module ContentBrowser (314)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module CollectionManager (313)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (312)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module ContentBrowserData (309)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module NiagaraCore (304)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (300)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (296)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module TreeMap (295)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module AnimationSharing (292)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (290)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module GameplayCameras (288)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (286)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module Paper2D (284)
+[2023.02.28-10.01.02:229][575]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (282)
+[2023.02.28-10.01.02:230][575]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (280)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (278)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module PacketHandler (276)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Sequencer (248)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module MessageLog (245)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module SlateReflector (240)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Slate (238)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module SlateCore (236)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (234)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module UnrealEd (232)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module MRMesh (230)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Messaging (228)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module Core (218)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module MaterialEditor (216)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2023.02.28-10.01.02:231][575]LogModuleManager: Shutting down and abandoning module EditorStyle (213)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MeshUtilities (206)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (205)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (204)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (203)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (201)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (199)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (197)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MaterialBaking (193)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (188)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (186)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (181)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (179)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (177)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (175)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (173)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (171)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (165)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module D3D11RHI (140)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module PhysXCooking (134)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module Chaos (132)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (124)
+[2023.02.28-10.01.02:232][575]LogModuleManager: Shutting down and abandoning module SteamVRInput (122)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module SteamVR (120)
+[2023.02.28-10.01.02:233][575]LogHMD: Freeing OpenVRDLLHandle.
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OculusHMD (118)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (116)
+[2023.02.28-10.01.02:233][575]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (114)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OpenXRAR (112)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module AugmentedReality (111)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OpenXRHMD (108)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (106)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module ChunkDownloader (104)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module VariantManagerContent (102)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (100)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (98)
+[2023.02.28-10.01.02:233][575]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2023.02.28-10.01.02:234][575]LogModuleManager: Shutting down and abandoning module SteamShared (88)
+[2023.02.28-10.01.02:234][575]LogSteamShared: Freeing the Steam Loaded Modules...
+[2023.02.28-10.01.02:234][575]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2023.02.28-10.01.02:234][575]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2023.02.28-10.01.02:256][575]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2023.02.28-10.01.02:256][575]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.02.28-10.01.02:282][575]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2023.02.28-10.01.02:283][575]LogModuleManager: Shutting down and abandoning module DatasmithContent (76)
+[2023.02.28-10.01.02:283][575]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module Media (73)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module VoxelHelpers (66)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module Voxel (64)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module MLSDK (62)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.02.28-10.01.02:285][575]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.02.28-10.01.02:286][575]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.02.28-10.01.02:286][575]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.02.28-10.01.02:307][575]LogD3D11RHI: Shutdown
+[2023.02.28-10.01.02:307][575]LogD3D11RHI: CleanupD3DDevice
+[2023.02.28-10.01.02:308][575]LogExit: Exiting.
+[2023.02.28-10.01.02:319][575]Log file closed, 02/28/23 18:01:02

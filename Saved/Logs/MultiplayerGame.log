@@ -1,0 +1,1594 @@
+﻿Log file open, 03/01/23 08:27:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MultiplayerGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.160777
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin VoxelPro
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogVoxel: VOXEL_DEBUG=0
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000179s (0.683102 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000175s (98.041411%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000004s (30.517568 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000004s (94.999964%). Num Chunks: 1.
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000013s (9.318356 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000013s (97.710125%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000000s (305.173458 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000000s (100.000000%). Num Chunks: 1.
+LogConfig: Applying CVar settings from Section [/Script/Voxel.VoxelSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i9-12900KF, GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:827][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.01-00.27.05:831][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.01-00.27.05:832][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.01-00.27.05:832][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.01-00.27.05:832][  0]LogHAL: Display: Platform has ~ 64 GB [68425355264 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.01-00.27.05:832][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Scalability.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.01-00.27.05:832][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.01-00.27.05:832][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.01-00.27.05:833][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.01-00.27.05:833][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.01-00.27.05:833][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Engine.ini]
+[2023.03.01-00.27.05:833][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/UnrealStudent/MultiplayerGame03/Saved/Config/Windows/Editor.ini]
+[2023.03.01-00.27.05:833][  0]LogInit: Computer: FTY-LEGION-PC
+[2023.03.01-00.27.05:833][  0]LogInit: User: FTYLEGIONPC
+[2023.03.01-00.27.05:833][  0]LogInit: CPU Page size=4096, Cores=16
+[2023.03.01-00.27.05:833][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.01-00.27.05:833][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.03.01-00.27.05:833][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.01-00.27.05:833][  0]LogMemory: Process Physical Memory: 157.76 MB used, 157.77 MB peak
+[2023.03.01-00.27.05:833][  0]LogMemory: Process Virtual Memory: 131.54 MB used, 131.54 MB peak
+[2023.03.01-00.27.05:833][  0]LogMemory: Physical Memory: 19191.35 MB used,  46064.15 MB free, 65255.50 MB total
+[2023.03.01-00.27.05:833][  0]LogMemory: Virtual Memory: 134170216.00 MB used,  47509.57 MB free, 134217728.00 MB total
+[2023.03.01-00.27.05:836][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.01-00.27.05:847][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.01-00.27.05:848][  0]LogInit: Overriding language with editor language configuration option (zh-Hans).
+[2023.03.01-00.27.05:848][  0]LogInit: Using OS detected locale (zh-CN).
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/zh/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2023.03.01-00.27.05:917][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2023.03.01-00.27.05:942][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.01-00.27.05:975][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.01-00.27.05:981][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.01-00.27.05:981][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.01-00.27.06:027][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.01-00.27.06:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.01-00.27.06:029][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.01-00.27.06:029][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.01-00.27.06:029][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.01-00.27.06:131][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Ti' (Feature Level 11_0)
+[2023.03.01-00.27.06:131][  0]LogD3D11RHI:       12108/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:       0/0/32627 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.03.01-00.27.06:132][  0]LogD3D11RHI:     SubSysId    : 389c17aa
+[2023.03.01-00.27.06:133][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.01-00.27.06:133][  0]LogD3D11RHI:     DedicatedVideoMemory : 12696158208 bytes
+[2023.03.01-00.27.06:133][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.01-00.27.06:133][  0]LogD3D11RHI:     SharedSystemMemory : 34212677632 bytes
+[2023.03.01-00.27.06:133][  0]LogD3D11RHI:     AdapterLuid : 0 65280
+[2023.03.01-00.27.06:137][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.01-00.27.06:137][  0]LogD3D11RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.01-00.27.06:137][  0]LogWindows: EnumDisplayDevices:
+[2023.03.01-00.27.06:137][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1)
+[2023.03.01-00.27.06:138][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1)
+[2023.03.01-00.27.06:138][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2023.03.01-00.27.06:138][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2023.03.01-00.27.06:138][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:   Driver Version: 472.39 (internal:30.0.14.7239, unified:472.39)
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:      Driver Date: 10-13-2021
+[2023.03.01-00.27.06:138][  0]LogRHI: Texture pool is 8475 MB (70% of 12108 MB)
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080 Ti
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     DeviceId    : 2208
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     SubSysId    : 389c17aa
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     DedicatedVideoMemory : 12696158208 bytes
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     SharedSystemMemory : 34212677632 bytes
+[2023.03.01-00.27.06:138][  0]LogD3D11RHI:     AdapterLuid : 0 65280
+[2023.03.01-00.27.06:191][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.01-00.27.06:191][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.01-00.27.06:191][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.01-00.27.06:209][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.03.01-00.27.06:228][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.03.01-00.27.06:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.01-00.27.06:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.01-00.27.06:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.01-00.27.06:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.01-00.27.06:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.01-00.27.06:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.01-00.27.06:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.01-00.27.06:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.01-00.27.06:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.01-00.27.06:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.01-00.27.06:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.01-00.27.06:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.01-00.27.06:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.01-00.27.06:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.01-00.27.06:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.01-00.27.06:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.01-00.27.06:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.01-00.27.06:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.01-00.27.06:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.01-00.27.06:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.01-00.27.06:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.01-00.27.06:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.01-00.27.06:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.01-00.27.06:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.01-00.27.06:476][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.01-00.27.06:490][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.01-00.27.06:504][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.01-00.27.06:504][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (G:/UnrealStudent/MultiplayerGame03/Intermediate/Shaders/WorkingDirectory/24536/).
+[2023.03.01-00.27.06:505][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/FTY-LEGION-PC/AppData/Local/Temp/UnrealShaderWorkingDir/3A30897247220B5AEA2EDE8A737D2614/'.
+[2023.03.01-00.27.06:505][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.01-00.27.06:505][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.01-00.27.06:505][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.01-00.27.06:979][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.01-00.27.07:047][  0]LogDerivedDataCache: Loaded boot cache 0.07s 205MB C:/Users/FTY-LEGION-PC/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.01-00.27.07:047][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/FTY-LEGION-PC/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.01-00.27.07:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/UnrealStudent/MultiplayerGame03/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.01-00.27.07:048][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.01-00.27.07:048][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/UnrealStudent/MultiplayerGame03/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.01-00.27.07:048][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.01-00.27.07:059][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.01-00.27.07:059][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.01-00.27.07:059][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.01-00.27.07:093][  0]LogDerivedDataCache: Speed tests for G:/UnrealStudent/MultiplayerGame03/DerivedDataCache took 0.03 seconds
+[2023.03.01-00.27.07:093][  0]LogDerivedDataCache: Display: Performance to G:/UnrealStudent/MultiplayerGame03/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=31.03MBs, RandomWriteSpeed=387.58MBs. Assigned SpeedClass 'Local'
+[2023.03.01-00.27.07:094][  0]LogDerivedDataCache: Using Local data cache path G:/UnrealStudent/MultiplayerGame03/DerivedDataCache: Writable
+[2023.03.01-00.27.07:094][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.01-00.27.07:094][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.01-00.27.07:123][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.01-00.27.07:123][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.01-00.27.07:138][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2023.03.01-00.27.07:272][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.01-00.27.07:272][  0]LogInit: Active device profile: [0000026B3CF4F800][0000026B2A777540 49] Windows
+[2023.03.01-00.27.07:272][  0]LogInit: Profiles: [0000026B3CF4F800][0000026B2A777540 49] Windows, [0000026B3CF08900][0000026B3B0D56C0 49] WindowsNoEditor, [0000026B3CF4CA00][0000026B3B0D9840 49] WindowsServer, [0000026B3CF0B100][0000026B3B0DD9C0 49] WindowsClient, [0000026B3CF4F000][0000026B3B0E1B40 49] IOS, [0000026B3CF09200][0000026B3B0E4140 49] iPadAir, [0000026B3CF4D100][0000026B3B0E82C0 49] iPadAir2, [0000026B3CEC4200][0000026B3B0F0580 49] IPadPro, [0000026B3CEC4300][0000026B3B0EC5C0 49] iPadAir3, [0000026B3CF4EB00][0000026B3B0F4740 49] iPadAir4, [0000026B3CEC7200][0000026B3B0F88C0 49] iPadMini2, [0000026B3CF4D500][0000026B3B0FCA40 49] iPadMini3, [0000026B3CEC5600][0000026B2A77AB80 49] iPadMini4, [0000026B3CF4E400][0000026B38C70CC0 49] iPadMini5, [0000026B3CEB7A00][0000026B38C78F00 49] iPhone6, [0000026B3CEB7B00][0000026B38C74F40 49] iPodTouch6, [0000026B3CEC6F00][0000026B38C85200 49] iPhone7, [0000026B3CEC6B00][0000026B38C81240 49] iPodTouch7, [0000026B3CEB4E00][0000026B38C893C0 49] iPhone5S, [0000026B3CEC5200][0000026B38C8D540 49] iPhone6Plus, [0000026B3CEB6C00][0000026B38C916C0 49] iPhone6S, [0000026B3CEC7600][0000026B38C95840 49] iPhone6SPlus, [0000026B3CEB5500][0000026B38C999C0 49] iPhone7Plus, [0000026B3CEC4900][0000026B38C9DB40 49] iPhoneSE, [0000026B3CEB6500][0000026B38CA0140 49] iPhone8, [0000026B3CEC6100][0000026B38CA42C0 49] iPhone8Plus, [0000026B3CEB5C00][0000026B3D110440 49] iPhoneX, [0000026B3CEC6C00][0000026B3D1145C0 49] iPhoneXS, [0000026B3CEB7800][0000026B3D118740 49] iPhoneXSMax, [0000026B3CEC7000][0000026B3D11C8C0 49] iPhoneXR, [0000026B3CEB5200][0000026B3D120A40 49] iPhone11, [0000026B3CEC4700][0000026B3D124BC0 49] iPhone11Pro, [0000026B3CEB6700][0000026B3D128D40 49] iPhone11ProMax, [0000026B3CEC5000][0000026B38C7CE80 49] iPhoneSE2, [0000026B3CEB6300][0000026B3D12CFC0 49] iPhone12Mini, [0000026B3CEC5F00][0000026B3D131100 49] iPhone12, [0000026B3CEB5D00][0000026B3D139280 49] iPhone12Pro, [0000026B3CEC7C00][0000026B3D13D400 49] iPhone12ProMax, [0000026B3CEB5800][0000026B3D141580 49] iPadPro105, [0000026B3CEC4B00][0000026B3D145700 49] iPadPro129, [0000026B3CEB5700][0000026B3D149880 49] iPadPro97, [0000026B3CEC4500][0000026B3D14DA00 49] iPadPro2_129, [0000026B3CEB6D00][0000026B3D151B80 49] iPad5, [0000026B3CEC4400][0000026B3D154180 49] iPad6, [0000026B3CEB6A00][0000026B3D158300 49] iPad7, [0000026B3CEC7100][0000026B3D15C480 49] iPad8, [0000026B3CEB6200][0000026B3D160600 49] iPadPro11, [0000026B3CEC6E00][0000026B3D164780 49] iPadPro2_11, [0000026B3CEB4200][0000026B3D168900 49] iPadPro3_129, [0000026B3CEC6300][0000026B3D16CA80 49] iPadPro4_129, [0000026B3CEB7500][0000026B3D170C00 49] AppleTV, [0000026B3CEC7D00][0000026B3D174D80 49] AppleTV4K, [0000026B3CEB4600][0000026B3D178F00 49] TVOS, [0000026B3CEC6D00][0000026B3D135040 49] Mac, [0000026B3CEB7400][0000026B3D17D180 49] MacClient, [0000026B3CEC4A00][0000026B3D1812C0 49] MacNoEditor, [0000026B3CEB4C00][0000026B3D189440 49] MacServer, [0000026B3CEC5900][0000026B3D18D5C0 49] Linux, [0000026B3CEB6F00][0000026B3D191740 49] LinuxAArch64, [0000026B3CEC5E00][0000026B3D1958C0 49] LinuxNoEditor, [0000026B3CEB4900][0000026B3D199A40 49] LinuxAArch64NoEditor, [0000026B3CEC7700][0000026B3D19DBC0 49] LinuxClient, [0000026B3CEB6800][0000026B3D1A01C0 49] LinuxAArch64Client, [0000026B3CEC7F00][0000026B3D1A4340 49] LinuxServer, [0000026B3CEB7200][0000026B3D1A84C0 49] LinuxAArch64Server, [0000026B3CF0A100][0000026B3D1AC640 49] Android, [0000026B3CF9A000][0000026B3D1B07C0 49] Android_Low, [0000026B3CF09400][0000026B3D1B4940 49] Android_Mid, [0000026B3CF98400][0000026B3D1B8AC0 49] Android_High, [0000026B3CF0B000][0000026B3D1BCC40 49] Android_Default, [0000026B3CF99000][0000026B3D1C0DC0 49] Android_Adreno4xx, [0000026B3CF09D00][0000026B3D1C4F40 49] Android_Adreno5xx_Low, [0000026B3CF98600][0000026B3D1C90C0 49] Android_Adreno5xx, [0000026B3CF09A00][0000026B3D185200 49] Android_Adreno6xx, [0000026B3CF99100][0000026B3D1CD340 49] Android_Adreno6xx_Vulkan, [0000026B3CF09300][0000026B3D1D1480 49] Android_Mali_T6xx, [0000026B3CF9A500][0000026B3D1D55C0 49] Android_Mali_T7xx, [0000026B3CF0A400][0000026B3D1DD740 49] Android_Mali_T8xx, [0000026B3CF99300][0000026B3D1E18C0 49] Android_Mali_G71, [0000026B3CF09C00][0000026B3D1E5A40 49] Android_Mali_G72, [0000026B3CF98300][0000026B3D1E9BC0 49] Android_Mali_G72_Vulkan, [0000026B3CF09700][0000026B3D1EC1C0 49] Android_Mali_G76, [0000026B3CF99900][0000026B3D1F0340 49] Android_Mali_G76_Vulkan, [0000026B3CF0AE00][0000026B3D1F44C0 49] Android_Mali_G77, [0000026B3CF99800][0000026B3D1F8640 49] Android_Mali_G77_Vulkan, [0000026B3CEB6900][0000026B3D1FC7C0 49] Android_Mali_G78, [0000026B3CEC4F00][0000026B3D200940 49] Android_Mali_G78_Vulkan, [0000026B3CEB7100][0000026B3D204AC0 49] Android_Mali_G710, [0000026B3CEC5400][0000026B3D208C40 49] Android_Mali_G710_Vulkan, [0000026B3CEB6100][0000026B3D20CDC0 49] Android_Vulkan_SM5, [0000026B3CEC7500][0000026B3D210F40 49] Android_PowerVR_G6xxx, [0000026B3CEB6B00][0000026B3D2150C0 49] Android_PowerVR_GT7xxx, [0000026B3CEC6200][0000026B3D219240 49] Android_PowerVR_GE8xxx, [0000026B3CF99A00][0000026B3D1D9380 49] Android_PowerVR_GM9xxx, [0000026B3CEC6500][0000026B3D21D4C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026B3CF98100][0000026B3D221600 49] Android_TegraK1, [0000026B3CEC5700][0000026B3D225740 49] Android_Unknown_Vulkan, [0000026B3CF98A00][0000026B3D22D8C0 49] Lumin, [0000026B3CEC6800][0000026B3D231A40 49] Lumin_Desktop, [0000026B3CF99400][0000026B3D235BC0 49] HoloLens, 
+[2023.03.01-00.27.07:347][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.01-00.27.07:347][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.01-00.27.07:347][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.01-00.27.07:347][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.01-00.27.07:347][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.01-00.27.07:359][  0]LogNetVersion: MultiplayerGame 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2357651925)
+[2023.03.01-00.27.07:589][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.01-00.27.07:781][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.01-00.27.07:785][  0]LogUObjectArray: 18615 objects as part of root set at end of initial load.
+[2023.03.01-00.27.07:785][  0]LogUObjectAllocator: 4802192 out of 0 bytes used by permanent object pool.
+[2023.03.01-00.27.07:785][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.01-00.27.07:915][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E7341A9345D15045A91C79B5743D9916 | Instance: E5FC50E1448A96FB901713997CEE9775 (FTY-LEGION-PC-24536).
+[2023.03.01-00.27.07:975][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.01-00.27.07:978][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.01-00.27.07:984][  0]LogPython: Using Python 3.7.7
+[2023.03.01-00.27.08:384][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.08:384][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.08:388][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.08:389][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.08:393][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.08:399][  0]LogUProjectInfo: Found projects:
+[2023.03.01-00.27.08:471][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.01-00.27.08:481][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.01-00.27.08:490][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.01-00.27.08:490][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.01-00.27.08:720][  0]LogVoxel: Loading embree3.dll from D:/Epic Games/UE_4.27/Engine/Plugins/Marketplace/VoxelPluginPro/Source/ThirdParty/Embree3/Win64/lib
+[2023.03.01-00.27.08:850][  0]LogCollectionManager: Loaded 0 collections in 0.000339 seconds
+[2023.03.01-00.27.08:865][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Saved/Collections/' took 0.00s
+[2023.03.01-00.27.08:865][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Content/Developers/FTYLEGIONPC/Collections/' took 0.00s
+[2023.03.01-00.27.08:865][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Content/Collections/' took 0.00s
+[2023.03.01-00.27.08:865][  0]LogOcInput: OculusInput pre-init called
+[2023.03.01-00.27.09:220][  0]LogClass: Display: StructProperty FBiomeMapElement::Color is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelBiomeMapNode.h
+[2023.03.01-00.27.09:220][  0]LogClass: Display: EnumProperty FVoxelGraphMacroPin::Category is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelGraphMacro.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: EnumProperty FVoxelSpawnerDensity::RGBAChannel is not initialized properly. Module:VoxelLegacySpawners File:Public/VoxelSpawnerConfig.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: IntProperty FVoxelSpawnerDensity::UVChannel is not initialized properly. Module:VoxelLegacySpawners File:Public/VoxelSpawnerConfig.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: EnumProperty FVoxelSpawnerDensity::UVAxis is not initialized properly. Module:VoxelLegacySpawners File:Public/VoxelSpawnerConfig.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2023.03.01-00.27.09:221][  0]LogClass: Display: 16 Uninitialized script struct members found including 0 object properties
+[2023.03.01-00.27.09:221][  0]LogEngine: Initializing Engine...
+[2023.03.01-00.27.09:223][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.01-00.27.09:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.01-00.27.09:223][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.01-00.27.09:223][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.03.01-00.27.09:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.01-00.27.09:325][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.01-00.27.09:326][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.01-00.27.09:327][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.01-00.27.09:328][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.01-00.27.09:328][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.01-00.27.09:334][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-00.27.09:334][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-00.27.09:347][  0]LogAudioMixer: Display: Using Audio Device Realtek Digital Output (Realtek(R) Audio)
+[2023.03.01-00.27.09:347][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.01-00.27.09:348][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.01-00.27.09:348][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.01-00.27.09:349][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.01-00.27.09:349][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.01-00.27.09:349][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.01-00.27.09:350][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.01-00.27.09:350][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.01-00.27.09:350][  0]LogInit: FAudioDevice initialized.
+[2023.03.01-00.27.09:350][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.01-00.27.09:350][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.01-00.27.09:407][  0]LogDerivedDataCache: Saved boot cache 0.06s 221MB C:/Users/FTY-LEGION-PC/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.01-00.27.09:409][  0]LogInit: Texture streaming: Enabled
+[2023.03.01-00.27.09:416][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.01-00.27.09:417][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.01-00.27.09:417][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.01-00.27.09:418][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.01-00.27.09:434][  0]LogInit: Transaction tracking system initialized
+[2023.03.01-00.27.09:446][  0]BlueprintLog: New page: 编辑器加载
+[2023.03.01-00.27.09:475][  0]LocalizationService: 本地化服务已禁用
+[2023.03.01-00.27.09:488][  0]TimingProfiler: Initialize
+[2023.03.01-00.27.09:488][  0]TimingProfiler: OnSessionChanged
+[2023.03.01-00.27.09:488][  0]LoadingProfiler: Initialize
+[2023.03.01-00.27.09:489][  0]LoadingProfiler: OnSessionChanged
+[2023.03.01-00.27.09:489][  0]NetworkingProfiler: Initialize
+[2023.03.01-00.27.09:489][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.01-00.27.09:489][  0]MemoryProfiler: Initialize
+[2023.03.01-00.27.09:489][  0]MemoryProfiler: OnSessionChanged
+[2023.03.01-00.27.09:569][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.01-00.27.09:569][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.01-00.27.09:749][  0]LogFileCache: Scanning file cache for directory 'G:/UnrealStudent/MultiplayerGame03/Content/' took 0.01s
+[2023.03.01-00.27.09:865][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.01-00.27.09:867][  0]SourceControl: 源码管理已禁用
+[2023.03.01-00.27.09:867][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.788
+[2023.03.01-00.27.09:867][  0]Cmd: MAP LOAD FILE="G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.01-00.27.09:872][  0]LightingResults: New page: 光照构建
+[2023.03.01-00.27.09:873][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-00.27.09:873][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-00.27.09:873][  0]MapCheck: New page: 地图检测
+[2023.03.01-00.27.09:873][  0]LightingResults: New page: 光照构建
+[2023.03.01-00.27.09:876][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.01-00.27.09:878][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_1' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.EdGraphNode_Comment_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_3' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_55' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_56' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_57' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_58' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_59' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_60' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_61' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_62' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_63' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_64' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_65' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_66' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_67' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_68' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_90' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:446][  0]LogBlueprint: Warning: Node '/Game/SciFiWeapDark/Sound/Pistol/PistolA_Fire_Cue.PistolA_Fire_Cue:SoundCueGraph_43.SoundCueGraphNode_Root_43' missing NodeGuid because of upgrade from old package version, this can cause deterministic cooking issues please resave package.
+[2023.03.01-00.27.10:533][  0]LogSkeletalMesh: Display: [AssetLog] G:\UnrealStudent\MultiplayerGame03\Content\SciFiWeapDark\Weapons\Darkness_Pistol.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.03.01-00.27.10:555][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.03.01-00.27.10:556][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.03.01-00.27.10:557][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.01-00.27.10:563][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.03.01-00.27.10:563][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.01-00.27.10:563][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.069毫秒。
+[2023.03.01-00.27.10:563][  0]LogFileHelpers: Loading map 'MainMenu' took 0.696
+[2023.03.01-00.27.10:565][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.485
+[2023.03.01-00.27.10:666][  0]LogSlate: The tab "Cesium" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2023.03.01-00.27.10:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-00.27.10:680][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-00.27.10:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-00.27.10:686][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.01-00.27.10:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0070 seconds. Added 4322 classes and 995 folders.
+[2023.03.01-00.27.10:708][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.01-00.27.10:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.01-00.27.10:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.01-00.27.10:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:709][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.01-00.27.10:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.01-00.27.10:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.01-00.27.10:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.01-00.27.10:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:710][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.01-00.27.10:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.01-00.27.10:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.01-00.27.10:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.01-00.27.10:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.01-00.27.10:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:711][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.01-00.27.10:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.01-00.27.10:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.01-00.27.10:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.01-00.27.10:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:712][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.01-00.27.10:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.01-00.27.10:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.01-00.27.10:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.01-00.27.10:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.01-00.27.10:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:713][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.01-00.27.10:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.01-00.27.10:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.01-00.27.10:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.01-00.27.10:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.01-00.27.10:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:714][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:714][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.01-00.27.10:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2023.03.01-00.27.10:715][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.01-00.27.10:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.01-00.27.10:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.01-00.27.10:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.01-00.27.10:715][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.01-00.27.10:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2023.03.01-00.27.10:726][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.01-00.27.10:730][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2023.03.01-00.27.10:738][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0001 seconds. Added 2 classes and 3 folders.
+[2023.03.01-00.27.10:777][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.03.01-00.27.10:777][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2023.03.01-00.27.10:777][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2023.03.01-00.27.10:777][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2023.03.01-00.27.10:777][  0]LogLoad: (Engine Initialization) Total time: 5.70 seconds
+[2023.03.01-00.27.10:777][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.01-00.27.10:815][  0]LogAssetRegistry: Asset discovery search completed in 3.6783 seconds
+[2023.03.01-00.27.10:818][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.03.01-00.27.10:819][  0]LogContentStreaming: Texture pool size now 800 MB
+[2023.03.01-00.27.10:825][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.01-00.27.10:826][  0]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.01-00.27.10:827][  0]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.03.01-00.27.10:827][  0]LogSlate: Took 0.000055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.01-00.27.10:867][  0]LogSlate: Took 0.000086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.01-00.27.10:886][  2]LogRenderer: Reallocating scene render targets to support 864x416 Format 9 NumSamples 1 (Frame:1).
+[2023.03.01-00.27.11:791][100]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.01-00.28.44:723][476]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{85f52bc8-2b70-4804-ae50-e9bb5a89080a}.
+[2023.03.01-00.28.44:723][476]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-00.28.44:728][476]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-00.28.44:728][476]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-00.28.45:722][479]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a8fb5af1-08f2-4023-8fe0-585f9d5119b4}.
+[2023.03.01-00.28.45:722][479]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-00.28.45:726][479]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-00.28.45:726][479]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-00.28.57:476][632]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameplayOverlay.WBP_GameplayOverlay
+[2023.03.01-00.28.57:808][632]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0003 seconds. Added 126 classes and 0 folders.
+[2023.03.01-00.28.58:324][632]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_PlayerScoreLine.WBP_PlayerScoreLine
+[2023.03.01-00.28.58:507][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerState.BP_RoomPlayerState
+[2023.03.01-00.28.59:386][632]LogSkeletalMesh: Display: [AssetLog] G:\UnrealStudent\MultiplayerGame03\Content\InfinityBladeWarriors\Character\CompleteCharacters\SK_CharM_Robo.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2023.03.01-00.28.59:679][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.28.59:876][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.29.00:058][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.BP_Target
+[2023.03.01-00.29.00:429][632]LogSlate: Took 0.004139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.01-00.29.00:538][633]LogSlate: Took 0.006928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.01-00.29.10:560][692]LogSlate: Window 'BP_Target' being destroyed
+[2023.03.01-00.31.29:323][204]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_TargetE1BDB73F405485F884E34D8F669734E3.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.uasset'
+[2023.03.01-00.31.29:335][204]AssetCheck: New page: 资产保存：BP_Target
+[2023.03.01-00.31.29:335][204]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.BP_Target
+[2023.03.01-00.31.42:448][730]BlueprintLog: New page: 编译BP_Target
+[2023.03.01-00.31.42:507][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.01-00.31.42:539][730]LogSlate: Took 0.005214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.01-00.31.42:914][772]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_Target9AB0C19C4C53CCB63534A1B85B4DF789.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.uasset'
+[2023.03.01-00.31.42:922][772]AssetCheck: New page: 资产保存：BP_Target
+[2023.03.01-00.31.42:922][772]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/Target/BP_Target.BP_Target
+[2023.03.01-00.31.50:694][882]LogRenderer: Reallocating scene render targets to support 1044x460 Format 9 NumSamples 1 (Frame:1).
+[2023.03.01-00.34.24:729][198]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.03.01-00.34.24:737][198]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.03.01-00.34.29:546][761]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_GameOver
+[2023.03.01-00.34.29:548][761]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.03.01-00.34.32:443][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MultiplayerGame/Maps/MainMenu" FILE="G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.01-00.34.32:469][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.03.01-00.34.32:475][909]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/MainMenu2436CC3A436B8926941D33BCE54CD942.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Maps/MainMenu.umap'
+[2023.03.01-00.34.32:491][909]AssetCheck: New page: 资产保存：MainMenu
+[2023.03.01-00.34.32:491][909]LogContentValidation: Display: 正在验证World /Game/MultiplayerGame/Maps/MainMenu.MainMenu
+[2023.03.01-00.34.33:944][ 65]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.34.51:903][ 10]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.34.51:928][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.03.01-00.35.58:114][515]LogEditorTransaction: Undo 移动锚点
+[2023.03.01-00.35.58:589][530]LogEditorTransaction: Undo 编辑A
+[2023.03.01-00.36.30:961][535]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.36.30:988][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.03.01-00.36.31:458][586]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver064451BD4D924E98683F3D8E20DDBB07.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.36.31:468][586]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.36.31:468][586]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.36.53:569][758]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.36.53:608][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.01-00.36.54:059][805]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverD78D2B224A195EB0AC41A1ACAAC2F79E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.36.54:067][805]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.36.54:067][805]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.37.01:811][245]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.37.01:848][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.03.01-00.37.02:275][290]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverF1B326F3403A5D77AFEF72994B72508C.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.37.02:284][290]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.37.02:284][290]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.37.21:070][402]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.37.21:107][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.01-00.37.21:526][447]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverF8A9DAAE4B8BED110836A4BDCB59E5AD.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.37.21:534][447]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.37.21:534][447]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.37.38:385][922]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.37.38:424][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.01-00.37.38:908][977]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverAB0AAF444F8797027E309F8491620302.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.37.38:916][977]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.37.38:916][977]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.37.59:596][129]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.37.59:636][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.01-00.37.59:674][129]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.37.59:699][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.03.01-00.38.00:424][205]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverBC7E8ED1444C80AF523391B2405441BF.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.38.00:432][205]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.38.00:432][205]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.38.34:157][354]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.38.34:196][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.03.01-00.38.34:841][425]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver9417AE3E4DAD2469AD242AB5C9FBD5A5.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.38.34:849][425]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.38.34:849][425]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.39.56:101][187]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.39.56:139][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.03.01-00.39.56:563][230]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverDC0DF7EB4296D92835535980750E2DAF.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.39.56:573][230]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.39.56:573][230]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.40.07:479][611]LogSlate: Window '取色器' being destroyed
+[2023.03.01-00.40.09:944][711]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.40.09:981][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.03.01-00.40.10:005][711]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.40.10:029][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.03.01-00.40.10:990][800]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver4431AE9849F6B28961D788814F61874A.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.40.10:997][800]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.40.10:998][800]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.40.41:953][149]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.40.41:991][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.03.01-00.40.42:406][192]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver9A0F4FF849D8AA02307380B6D4435CB8.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.40.42:414][192]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.40.42:414][192]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.40.52:276][650]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.40.52:313][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.01-00.40.52:822][704]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverDBF5C63D4F98EBC0A702A78194A01E4D.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.40.52:830][704]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.40.52:830][704]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.40.58:518][371]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.40.58:556][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.01-00.40.59:240][446]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver101A8A2B4D60B0784D8B4C8191EBF3A1.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.40.59:248][446]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.40.59:248][446]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.41.14:486][246]LogSlate: Window '取色器' being destroyed
+[2023.03.01-00.41.15:769][397]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.41.15:805][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.03.01-00.41.16:807][504]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverA2B40D9244D65C56630C30BF77121BC5.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.41.16:817][504]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.41.16:817][504]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.41.31:346][928]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.41.31:387][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.01-00.41.31:423][928]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.41.31:447][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.01-00.41.31:974][981]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverB73806ED40F682BBFDDB52AECA8BE770.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.41.31:982][981]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.41.31:982][981]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.41.45:075][513]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.41.45:112][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.03.01-00.41.45:577][562]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverB571222A4393AE650ECA5A9866492C3B.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.41.45:588][562]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.41.45:588][562]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.42.19:433][334]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.42.19:470][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.01-00.42.19:956][385]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver0BD300FC4F0F2AB04B25589AE8C32F94.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.42.19:965][385]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.42.19:965][385]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.42.33:774][182]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.42.33:811][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.03.01-00.42.34:441][245]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver35BD08CD4FFB24003A44D2A5B4DA213E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.42.34:451][245]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.42.34:451][245]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.43.03:807][240]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.43.03:846][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.03.01-00.43.04:256][286]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver2424DA6F49BA1146C67640A5F738831F.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.43.04:264][286]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.43.04:264][286]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.43.20:949][195]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.43.20:990][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.03.01-00.43.21:373][237]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver9F47E840459EBE7767C5429B65812AD1.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.43.21:382][237]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.43.21:382][237]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.44.02:349][893]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.44.02:388][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.03.01-00.44.02:841][943]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverDE5FA4F0430BF8B7130340B3A995E16A.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.44.02:849][943]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.44.02:850][943]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.44.17:507][166]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.44.17:544][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.01-00.44.17:973][214]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver3A4D794D489DD7BB9F0E0682F6FEAEF3.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.44.17:982][214]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.44.17:982][214]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.44.36:549][619]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.44.36:591][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.01-00.44.37:122][677]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverDBC5C3324A1E03B5B68E79ADCDA66AB3.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.44.37:132][677]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.44.37:132][677]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.45.22:823][315]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.45.22:866][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.03.01-00.45.23:339][367]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver0A6DE6B74A87A06622D5C6896F9F1F8B.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.45.23:348][367]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.45.23:348][367]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.45.35:032][302]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.45.35:068][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.03.01-00.45.35:542][355]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver3F5794FF49F320160AAD1898FC79DA0B.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.45.35:553][355]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.45.35:553][355]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.46.01:356][338]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.46.01:397][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.03.01-00.46.01:791][381]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver6BED82644B72D76C0CDD0F9B5806FCBC.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.46.01:800][381]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.46.01:800][381]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.46.17:882][655]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.46.17:920][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.01-00.46.18:341][702]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverB66EE6FC4C27C11D3F2486A08C91460E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.46.18:351][702]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.46.18:351][702]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.46.31:060][ 44]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver042C6B944AB15FB60677229C82DEBBFE.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.46.31:079][ 44]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.46.31:079][ 44]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.46.42:324][364]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.46.42:363][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.03.01-00.46.42:907][424]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverB283E9964D0BD50C134AE29FB6589836.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.46.42:918][424]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.46.42:918][424]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.47.00:485][618]LogSlate: Took 0.004145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.01-00.47.02:764][886]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.47.02:766][886]LogClass: Warning: Type mismatch in WinnerText of WBP_GameOver_C - Previous (BoolProperty) Current(TextProperty) for package:  FObjectReader
+[2023.03.01-00.47.02:803][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.03.01-00.47.03:190][928]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOverA5407E77436AD3BA01154B937B926369.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.47.03:197][928]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.47.03:198][928]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.47.18:574][686]BlueprintLog: New page: 编译WBP_GameOver
+[2023.03.01-00.47.18:612][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.01-00.47.19:024][730]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/WBP_GameOver3B37BE4F4C0C7E7639836A86ADE1CE54.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.uasset'
+[2023.03.01-00.47.19:032][730]AssetCheck: New page: 资产保存：WBP_GameOver
+[2023.03.01-00.47.19:032][730]LogContentValidation: Display: 正在验证WidgetBlueprint /Game/MultiplayerGame/Blueprints/Widget/Gameplay/WBP_GameOver.WBP_GameOver
+[2023.03.01-00.47.42:442][277]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-00.47.42:442][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-00.47.42:447][277]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-00.47.42:447][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-00.47.54:269][664]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.49.11:046][726]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.49.11:100][726]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.03.01-00.49.23:572][760]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.49.23:613][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.03.01-00.49.33:738][730]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.49.33:778][730]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.01-00.49.34:208][777]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameStateA067799B48001340220ED58D0C2DD288.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.49.34:223][777]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.49.34:223][777]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.49.40:881][562]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.49.40:920][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.03.01-00.49.41:290][602]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameState5378CAD24F13F2F1ED572CB61EA18D9E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.49.41:298][602]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.49.41:299][602]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.50.45:848][ 91]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.50.45:889][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.01-00.50.45:899][ 91]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.50.45:940][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.01-00.50.46:473][148]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameStateE18BCD5A46643FBBACC52187A9A824FA.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.50.46:484][148]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.50.46:485][148]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.51.03:146][ 70]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.51.03:188][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.03.01-00.51.03:523][105]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameState514982274CA6151BB9A8308F563058FB.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.51.03:532][105]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.51.03:532][105]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.51.24:305][516]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.51.24:346][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.01-00.51.24:801][564]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameStateB7AE07024EF574F65E61C99B18593089.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.51.24:814][564]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.51.24:814][564]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.52.10:671][617]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.52.10:725][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.03.01-00.52.11:120][656]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeB978103A423C84AABD1D648587FC1B95.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.52.11:133][656]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.52.11:133][656]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.52.20:996][792]BlueprintLog: New page: 编译BP_RoomGameState
+[2023.03.01-00.52.21:043][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.03.01-00.52.21:406][830]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameState8024EA3E457EAC077E0D13867718D970.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.uasset'
+[2023.03.01-00.52.21:415][830]AssetCheck: New page: 资产保存：BP_RoomGameState
+[2023.03.01-00.52.21:415][830]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameState.BP_RoomGameState
+[2023.03.01-00.53.26:470][142]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeE346233D427C7DAECC44AB806858CA7E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.53.26:480][142]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.53.26:480][142]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.53.29:740][500]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-00.53.29:740][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-00.53.34:567][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.01-00.53.34:567][ 49]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.03.01-00.53.34:567][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.01-00.53.57:829][551]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-00.53.57:886][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.01-00.53.58:473][611]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerControllerF914F8E94A3C354E5D51DBB6756CAF5E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.53.58:485][611]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.53.58:485][611]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.54.19:679][239]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.01-00.54.45:812][900]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-00.54.45:862][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.03.01-00.54.46:314][942]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerControllerEAD8414F4D2EE4A722BCF2B322FF3C9E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.54.46:333][942]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.54.46:333][942]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.54.49:255][286]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerController4C80594B4523FCF1558CA885D6AC36B9.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.54.49:266][286]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.54.49:266][286]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.55.43:217][117]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-00.55.43:267][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.03.01-00.55.44:088][204]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerController049F240540E8E4A735EBF689522FB57C.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.55.44:098][204]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.55.44:098][204]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.55.52:620][222]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-00.55.52:669][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.03.01-00.55.53:073][259]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerController903C8E574C8E343716903FA2656F579C.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.55.53:084][259]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.55.53:084][259]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.56.00:024][ 58]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerController525E845943B817F6D7BC71BBFBA60847.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.56.00:034][ 58]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.56.00:034][ 58]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.56.17:239][ 47]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-00.56.17:287][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.03.01-00.56.17:677][ 82]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerControllerE56BC81446AC93EB4A22CEBE5892092F.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-00.56.17:693][ 82]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-00.56.17:693][ 82]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-00.57.06:741][342]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.57.06:798][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.01-00.57.06:901][353]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.57.06:949][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.01-00.57.07:400][402]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeEB3228EF4D72FA0D0DAF1A911C482172.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.57.07:411][402]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.57.07:411][402]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.57.16:127][404]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.57.16:176][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.01-00.57.16:505][437]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode5571F47C466F2113168DB6B03CF81CDB.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.57.16:516][437]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.57.16:516][437]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.57.41:752][391]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.57.41:799][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.03.01-00.57.42:255][437]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode405125654CC24D9A29BCA88284707DC2.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.57.42:269][437]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.57.42:269][437]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.57.52:118][591]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.57.52:165][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.01-00.57.52:851][667]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode5B3A15CF43958A40D6BD308AE80A22BC.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.57.52:861][667]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.57.52:861][667]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.58.04:785][ 68]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.58.04:835][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.03.01-00.58.05:152][ 99]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode6215F4E94BC71F30E3D4498A63C7BA51.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.58.05:164][ 99]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.58.05:164][ 99]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.58.40:891][891]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.58.40:946][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.01-00.58.40:956][891]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.58.41:002][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.03.01-00.58.41:649][958]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeEE1FE1364AD792675F994FA3AFEF391D.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.58.41:658][958]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.58.41:658][958]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.59.05:143][971]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.59.05:192][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.01-00.59.05:586][ 13]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode474EB14245CF5E6B01EE04AF5F5A58D6.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.59.05:597][ 13]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.59.05:597][ 13]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-00.59.37:326][284]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-00.59.37:374][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.03.01-00.59.37:768][324]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode3C188F86421637F1A1E3EB898DAD5E88.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-00.59.37:778][324]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-00.59.37:778][324]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-01.00.07:460][610]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-01.00.07:509][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.01-01.00.07:819][640]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeE39E805B4341DD2A31C4418AB7E7ED36.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-01.00.07:829][640]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-01.00.07:829][640]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-01.00.15:194][494]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-01.00.15:241][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.01-01.00.15:585][526]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeD88F262247AE40DED18DF29874CC3DD5.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-01.00.15:596][526]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-01.00.15:596][526]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: request failed, libcurl error: 0 (No error)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26b0ac3feb0 [can pipeline])
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.211.108.101) port 443 (#1))
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 7 (Closing connection 1)
+[2023.03.01-01.19.15:225][167]LogHttp: Warning: 0000026B8A388800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.01-01.19.15:561][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-01.55.41:463][ 60]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{a8fb5af1-08f2-4023-8fe0-585f9d5119b4}.
+[2023.03.01-01.55.41:469][ 60]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-01.55.42:896][ 60]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-01.55.42:896][ 60]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-01.55.42:911][ 61]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-01.55.42:915][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-01.55.42:915][ 61]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: request failed, libcurl error: 0 (No error)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26b0ac3c8b0 [can pipeline])
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.234.65.203) port 443 (#2))
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 7 (Closing connection 2)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: 0000026B9D40C100: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.01-01.56.14:804][886]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-01.56.54:167][609]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{85f52bc8-2b70-4804-ae50-e9bb5a89080a}.
+[2023.03.01-01.56.54:174][609]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-01.56.54:178][609]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-01.56.54:178][609]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-01.56.54:351][630]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b823a1d0-509f-4fd1-b45f-1599307dab96}.
+[2023.03.01-01.56.54:360][630]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.01-01.56.54:383][630]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.01-01.56.54:383][630]LogAudioMixer: Display: 1: FrontRight
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 1 (Closing connection 3)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 2 (  Trying 54.159.186.237...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 3 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 4 (connect to 54.159.186.237 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 5 (  Trying 3.234.65.203...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 6 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 7 (After 19476ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 8 (connect to 3.234.65.203 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 9 (  Trying 3.234.2.164...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 10 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 11 (After 9734ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 12 (connect to 3.234.2.164 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 13 (  Trying 34.197.152.37...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 14 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 15 (After 4867ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 16 (connect to 34.197.152.37 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 17 (  Trying 52.73.191.26...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 18 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 19 (After 2429ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 20 (connect to 52.73.191.26 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 21 (  Trying 52.87.52.189...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 22 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 23 (After 1211ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 24 (connect to 52.87.52.189 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 25 (  Trying 35.175.27.195...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 26 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 27 (After 601ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 28 (connect to 35.175.27.195 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 29 (  Trying 3.209.176.119...)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 30 (TCP_NODELAY set)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 31 (After 297ms connect time, move on!)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 32 (connect to 3.209.176.119 port 443 failed: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 33 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 34 (Closing connection 4)
+[2023.03.01-01.59.09:662][686]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 0 (  Trying 100.24.198.138...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 1 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 2 (connect to 100.24.198.138 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 3 (  Trying 34.199.220.88...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 4 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 6 (connect to 34.199.220.88 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 7 (  Trying 52.72.31.221...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 8 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 10 (connect to 52.72.31.221 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 11 (  Trying 54.237.6.163...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 12 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 14 (connect to 54.237.6.163 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 15 (  Trying 54.159.186.237...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 16 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 18 (connect to 54.159.186.237 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 19 (  Trying 34.202.202.32...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 20 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 22 (connect to 34.202.202.32 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 23 (  Trying 34.197.152.37...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 24 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 26 (connect to 34.197.152.37 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 27 (  Trying 35.174.248.58...)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 28 (TCP_NODELAY set)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 30 (connect to 35.174.248.58 port 443 failed: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: 0000026BD6753200: libcurl info message cache 32 (Closing connection 5)
+[2023.03.01-02.00.09:672][864]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: request failed, libcurl error: 7 (Couldn't connect to server)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 0 (  Trying 67.202.57.230...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 1 (TCP_NODELAY set)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 2 (connect to 67.202.57.230 port 443 failed: Timed out)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 3 (  Trying 18.210.87.11...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 4 (TCP_NODELAY set)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 5 (After 19476ms connect time, move on!)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 6 (connect to 18.210.87.11 port 443 failed: Timed out)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 7 (  Trying 34.225.85.65...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 8 (TCP_NODELAY set)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 9 (After 9734ms connect time, move on!)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 10 (connect to 34.225.85.65 port 443 failed: Timed out)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 11 (  Trying 3.226.7.168...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 12 (TCP_NODELAY set)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 14 (connect to 3.226.7.168 port 443 failed: Timed out)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 15 (  Trying 34.226.51.127...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 16 (TCP_NODELAY set)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 18 (connect to 34.226.51.127 port 443 failed: Timed out)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 19 (  Trying 18.213.62.92...)
+[2023.03.01-02.01.09:580][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 20 (TCP_NODELAY set)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 22 (connect to 18.213.62.92 port 443 failed: Timed out)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 23 (  Trying 34.201.184.33...)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 24 (TCP_NODELAY set)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 26 (connect to 34.201.184.33 port 443 failed: Timed out)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 27 (  Trying 3.234.193.111...)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 28 (TCP_NODELAY set)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 30 (connect to 3.234.193.111 port 443 failed: Timed out)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2023.03.01-02.01.09:581][399]LogHttp: Warning: 0000026BDDA20F00: libcurl info message cache 32 (Closing connection 6)
+[2023.03.01-02.01.09:913][400]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-02.01.25:422][551]LogSlate: Window '修改变量类型' being destroyed
+[2023.03.01-02.01.26:387][658]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.01.26:448][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.01-02.01.26:829][696]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeA68A3DCE46D0997D098CFBBFD463A043.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.01.26:838][696]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.01.26:838][696]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.01.50:756][524]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.01.50:804][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.01-02.01.51:495][599]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeC551C64F4BA37E539B10CB80D34E2E3E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.01.51:508][599]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.01.51:508][599]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.03.17:162][190]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.03.17:214][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.01-02.03.17:646][233]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode99F120AA44606114C39D45AFE35F6168.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.03.17:658][233]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.03.17:658][233]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.03.52:788][778]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.03.52:839][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.03.01-02.03.53:496][846]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode7C9B77E6497152DFCD4B729888FF3BAD.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.03.53:507][846]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.03.53:507][846]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.04.18:286][250]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.04.18:336][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.03.01-02.04.19:536][268]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeE54EB90443A41F0F252BD8BB4DB90A9F.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.04.19:547][268]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.04.19:547][268]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.05.07:860][ 85]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.05.07:911][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.01-02.05.08:329][128]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode752C47C44A4B680405D7CBAE5D1915CC.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.05.08:340][128]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.05.08:340][128]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.05.23:468][925]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.05.23:517][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.03.01-02.05.23:964][970]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeF41DC378497715AFB800329C3050B15F.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.05.23:976][970]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.05.23:976][970]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.05.40:426][974]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.05.40:479][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.03.01-02.05.40:830][  8]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode0A8A13B1463412A3698FEE8923779982.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.05.40:842][  8]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.05.40:842][  8]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.06.26:210][569]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.06.26:259][569]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.01-02.06.26:697][614]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode6BCC1B394B6245E4150BD5820C6E1D1D.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.06.26:708][614]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.06.26:708][614]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.07.18:920][645]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.07.18:973][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.03.01-02.07.19:496][701]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode0B659E854265643DF4D8A0A3F3E9AFB9.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.07.19:507][701]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.07.19:507][701]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.08.09:337][419]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.08.09:389][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.01-02.08.09:797][459]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode07EE056B4DE114F9897E1C90F678C37D.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.08.09:827][459]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.08.09:828][459]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.08.35:951][148]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.08.36:001][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.01-02.08.36:395][187]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode795FB9074AB65253606B69807FB16990.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.08.36:405][187]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.08.36:405][187]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.08.45:325][503]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.08.45:375][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.01-02.08.45:782][544]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode36B848194C0D7A00C53E23A3DC91E27D.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.08.45:795][544]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.08.45:795][544]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.11.00:625][ 57]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.11.00:676][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.01-02.11.01:062][ 95]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode404954DC426CA7DE186DA9A7102EA95E.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.11.01:072][ 95]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.11.01:072][ 95]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.11.13:994][631]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeE126235042727564EEC86DBA8F13D045.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.11.14:004][631]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.11.14:004][631]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.12.36:600][741]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.12.36:652][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.03.01-02.12.37:562][764]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeD1FFBE9A40B9639FFF7522B9BE016DE6.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.12.37:573][764]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.12.37:573][764]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.13.43:958][993]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.13.44:010][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.03.01-02.13.44:431][ 35]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeA53DD6CC45F5C88FAAAF238EEFA5B29F.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.13.44:444][ 35]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.13.44:444][ 35]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.14.26:517][ 57]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.14.26:572][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.03.01-02.14.27:081][110]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeAF3B764A4C0C0D3398B1928A492A04D2.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.14.27:092][110]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.14.27:092][110]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.14.59:717][870]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.14.59:767][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.03.01-02.15.00:312][927]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode0530323045809BFE1A5A08AF3A3D55F8.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.15.00:325][927]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.15.00:325][927]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26b0ac3ff10 [can pipeline])
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.251.25) port 443 (#7))
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: 0000026BCA1D4F00: libcurl info message cache 7 (Closing connection 7)
+[2023.03.01-02.18.36:200][382]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD1F8D6D-466E-FBBC-183C-71B243672727%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=9acac8f942e985ae254df2af6337579f%7C6abff9e21e054f60a4a92b5ca3f0a665%7C1dd3e6aa-0043-4ce5-9291-1f14044e7930&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.01-02.18.42:623][135]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.18.42:677][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.03.01-02.18.43:079][175]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameMode1523F20240109E7A4E8E969A19165A80.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.18.43:089][175]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.18.43:089][175]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.21.19:272][279]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.21.19:333][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.03.01-02.21.19:694][313]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeD3C6A7EF47DEBA4600DFAFBDED90D905.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.21.19:703][313]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.21.19:703][313]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.21.34:846][747]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.21.34:906][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.03.01-02.21.35:328][787]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeF6C891CB4F3F427E0325C4972071A14A.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.21.35:339][787]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.21.35:339][787]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.21.46:613][123]BlueprintLog: New page: 编译BP_RoomGameMode
+[2023.03.01-02.21.46:675][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.01-02.21.46:996][150]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomGameModeA64D8FFE4288877A788BFB9EA59E8C4C.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.uasset'
+[2023.03.01-02.21.47:007][150]AssetCheck: New page: 资产保存：BP_RoomGameMode
+[2023.03.01-02.21.47:007][150]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomGameMode.BP_RoomGameMode
+[2023.03.01-02.21.56:233][202]LogTemp: Repeating last play command: 独立进程游戏
+[2023.03.01-02.21.56:261][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.01-02.25.25:224][697]LogTemp: Repeating last play command: 独立进程游戏
+[2023.03.01-02.25.25:253][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.03.01-02.32.39:180][599]LogTemp: Repeating last play command: 独立进程游戏
+[2023.03.01-02.32.39:214][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.03.01-02.35.18:669][ 35]BlueprintLog: New page: 编译BP_RoomPlayerController
+[2023.03.01-02.35.18:752][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.03.01-02.35.19:123][ 70]LogSavePackage: Moving 'G:/UnrealStudent/MultiplayerGame03/Saved/BP_RoomPlayerController396AC4524C79CE122570AAABDCD489D8.tmp' to 'G:/UnrealStudent/MultiplayerGame03/Content/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.uasset'
+[2023.03.01-02.35.19:134][ 70]AssetCheck: New page: 资产保存：BP_RoomPlayerController
+[2023.03.01-02.35.19:134][ 70]LogContentValidation: Display: 正在验证Blueprint /Game/MultiplayerGame/Blueprints/Gameplay/BP_RoomPlayerController.BP_RoomPlayerController
+[2023.03.01-02.37.17:948][ 73]LogTemp: Repeating last play command: 独立进程游戏
+[2023.03.01-02.37.17:982][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.03.01-02.50.29:675][100]LogTemp: Repeating last play command: 独立进程游戏
+[2023.03.01-02.50.29:709][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
